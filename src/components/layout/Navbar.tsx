@@ -1,12 +1,5 @@
 import React, { useState } from 'react';
-import {
-  X,
-  Menu,
-  ChevronDown,
-  Search,
-  CheckCircle2,
-  Palette,
-} from 'lucide-react';
+import { X, Menu, ChevronDown, Search, Palette } from 'lucide-react';
 import { mainNavigation } from '../../data/navigation';
 import { Link } from 'react-router';
 import { useTranslation } from 'react-i18next';
@@ -154,12 +147,17 @@ const Navbar: React.FC = () => {
           <Link
             to="/"
             className="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-primary-500 rounded-lg p-1"
+            aria-label="Better Obando Home"
           >
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-primary-700 to-primary-500 flex items-center justify-center text-white shadow-sm group-hover:scale-105 transition-transform">
-              <CheckCircle2 className="h-6 w-6" />
-            </div>
+            <img
+              src="/images/better-obando-logo.png"
+              alt="Better Obando Logo"
+              className="h-11 w-11 sm:h-12 sm:w-12 object-contain group-hover:scale-105 transition-transform shrink-0"
+              width={48}
+              height={48}
+            />
             <div>
-              <div className="text-gray-900 font-extrabold text-lg leading-tight group-hover:text-primary-700 transition-colors">
+              <div className="text-gray-900 font-extrabold text-base sm:text-lg leading-tight group-hover:text-primary-700 transition-colors tracking-tight">
                 Better Obando
               </div>
               <div className="text-[11px] font-medium text-gray-500 leading-tight">

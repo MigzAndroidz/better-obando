@@ -14,6 +14,7 @@ import {
   Landmark,
   Search,
   ArrowLeft,
+  Users,
 } from 'lucide-react';
 
 export default function Barangays() {
@@ -60,8 +61,18 @@ export default function Barangays() {
           />
 
           <div className="bg-white border border-gray-200 rounded-2xl p-6 md:p-8 shadow-sm mb-8">
-            <div className="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-700 mb-3">
-              {barangay.classification}
+            <div className="flex flex-wrap items-center gap-2 mb-3">
+              <span className="px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-700">
+                {barangay.classification}
+              </span>
+              <span className="px-3 py-1 rounded-full text-xs font-semibold bg-emerald-50 text-emerald-700 border border-emerald-100 flex items-center gap-1.5">
+                <Users className="h-3.5 w-3.5" />
+                Pop: {barangay.population.toLocaleString()} (PSA{' '}
+                {barangay.censusYear} Census)
+              </span>
+              <span className="px-3 py-1 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 border border-slate-200 font-mono text-[11px]">
+                PSGC: {barangay.psgcCode}
+              </span>
             </div>
             <Heading
               level={1}
@@ -138,6 +149,21 @@ export default function Barangays() {
                 </div>
               </div>
             )}
+
+            <div className="mt-6 pt-4 border-t border-gray-100 text-[11px] text-gray-500 flex flex-wrap justify-between items-center gap-2">
+              <span>
+                Demographic source:{' '}
+                <strong>
+                  Philippine Statistics Authority (PSA) 2020 Census of
+                  Population
+                </strong>
+                .
+              </span>
+              <span>
+                Barangay PSGC:{' '}
+                <strong className="font-mono">{barangay.psgcCode}</strong>
+              </span>
+            </div>
           </div>
 
           <Link
@@ -233,6 +259,9 @@ export default function Barangays() {
                   <span className="text-[11px] font-semibold px-2.5 py-0.5 rounded-full bg-primary-50 text-primary-700 border border-primary-100">
                     {barangay.classification}
                   </span>
+                  <span className="text-[11px] font-mono text-gray-500">
+                    PSGC {barangay.psgcCode}
+                  </span>
                 </div>
 
                 <h3 className="text-xl font-bold text-gray-900 mb-2">
@@ -243,6 +272,14 @@ export default function Barangays() {
                 </p>
 
                 <div className="space-y-2 pt-4 border-t border-gray-100 text-xs text-gray-600 mb-5">
+                  <div className="flex items-center gap-2 text-primary-700 font-medium">
+                    <Users className="h-3.5 w-3.5 text-primary-600 shrink-0" />
+                    <span>
+                      Pop:{' '}
+                      <strong>{barangay.population.toLocaleString()}</strong>{' '}
+                      (2020 Census)
+                    </span>
+                  </div>
                   <div className="flex items-start gap-2">
                     <MapPin className="h-3.5 w-3.5 text-primary-600 shrink-0 mt-0.5" />
                     <span className="truncate">{barangay.hallAddress}</span>
@@ -270,6 +307,22 @@ export default function Barangays() {
               </CardContent>
             </Card>
           ))}
+        </div>
+
+        {/* Authoritative Demographic Data Source Footnote */}
+        <div className="mt-8 pt-4 border-t border-gray-200 text-xs text-gray-500 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2">
+          <span>
+            Demographic figures verified from the{' '}
+            <strong>
+              Philippine Statistics Authority (PSA) 2020 Census of Population
+              (POPCEN)
+            </strong>
+            .
+          </span>
+          <span>
+            Municipality of Obando PSGC:{' '}
+            <strong className="font-mono">0301414000</strong>
+          </span>
         </div>
       </Section>
     </>

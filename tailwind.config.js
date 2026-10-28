@@ -20,16 +20,16 @@ export default {
       },
       colors: {
         primary: {
-          50: 'var(--theme-primary-50, #eef8fa)',
-          100: 'var(--theme-primary-100, #d4eef3)',
-          200: 'var(--theme-primary-200, #aee0e9)',
-          300: 'var(--theme-primary-300, #78c7d6)',
-          400: 'var(--theme-primary-400, #3ca8be)',
-          500: 'var(--theme-primary-500, #026c80)', // Deep River Blue base
-          600: 'var(--theme-primary-600, #025769)',
-          700: 'var(--theme-primary-700, #024756)',
-          800: 'var(--theme-primary-800, #063b47)',
-          900: 'var(--theme-primary-900, #08323c)',
+          50: 'var(--theme-primary-50, #f0f4fa)',
+          100: 'var(--theme-primary-100, #dbe6f5)',
+          200: 'var(--theme-primary-200, #9ebde4)',
+          300: 'var(--theme-primary-300, #5b8ecb)',
+          400: 'var(--theme-primary-400, #2563b0)',
+          500: 'var(--theme-primary-500, #082f65)', // Official Primary Navy
+          600: 'var(--theme-primary-600, #052759)', // Logo Core Navy Badge
+          700: 'var(--theme-primary-700, #03204a)',
+          800: 'var(--theme-primary-800, #021838)',
+          900: 'var(--theme-primary-900, #011026)',
         },
         secondary: {
           50: '#ffede6',
@@ -44,16 +44,16 @@ export default {
           900: '#330f00',
         },
         accent: {
-          50: 'var(--theme-accent-50, #fef9ee)',
-          100: 'var(--theme-accent-100, #fdf0d2)',
-          200: 'var(--theme-accent-200, #fbe0a4)',
-          300: 'var(--theme-accent-300, #f7ca6d)',
-          400: 'var(--theme-accent-400, #f2ab36)',
-          500: 'var(--theme-accent-500, #e69b00)', // Golden Harvest base
-          600: 'var(--theme-accent-600, #c97b00)',
-          700: 'var(--theme-accent-700, #9f5803)',
-          800: 'var(--theme-accent-800, #82450a)',
-          900: 'var(--theme-accent-900, #6c3a0d)',
+          50: 'var(--theme-accent-50, #fffcf2)',
+          100: 'var(--theme-accent-100, #fff8e5)',
+          200: 'var(--theme-accent-200, #ffedb9)',
+          300: 'var(--theme-accent-300, #ffe089)',
+          400: 'var(--theme-accent-400, #ffd359)',
+          500: 'var(--theme-accent-500, #ffc629)', // Official Golden Sun Yellow
+          600: 'var(--theme-accent-600, #d99f12)',
+          700: 'var(--theme-accent-700, #b37d06)',
+          800: 'var(--theme-accent-800, #8e5f05)',
+          900: 'var(--theme-accent-900, #6b4504)',
         },
         success: {
           50: '#e6f7ef',

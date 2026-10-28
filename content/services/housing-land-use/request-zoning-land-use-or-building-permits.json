@@ -1,0 +1,17 @@
+{
+  "serviceMetadata": {
+    "officialTitle": "Issuance of Locational / Zoning Clearance & Building Permit",
+    "responsibleOffice": "Municipal Planning & Development Office (MPDO) & Office of the Building Official (OBO)",
+    "officeLocation": "2nd Floor (MPDO) & Ground Floor (Engineering/OBO), Municipal Hall, Brgy. Paliwas",
+    "hotline": "(02) 8292-2043",
+    "transactionType": "Complex (≤ 7 Days)",
+    "processingTime": "5 to 7 working days",
+    "officialFee": "Graduated fee schedule based on NBCP floor area and construction cost",
+    "legalBasis": "Presidential Decree No. 1096 (National Building Code); HLURB/DHSUD Guidelines; RA 11032",
+    "sourceUrl": "https://obando.gov.ph/application-forms/",
+    "sourceName": "Obando OBO / Engineering Application Forms",
+    "verificationStatus": "NEEDS CONFIRMATION",
+    "lastVerified": "March 2026 - NBCP Framework; Local Assessment Rate Needs Confirmation",
+    "charterSection": "OBO-01"
+  }
+}

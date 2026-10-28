@@ -8,8 +8,8 @@
 
 The **Executive Department of the Municipality of Obando** is headed by the **Municipal Mayor**, who acts as the local chief executive of the municipal government. Working in close executive-legislative coordination with the **Municipal Vice Mayor**, the executive leadership directs municipal development, manages frontline public administration, implements enacted municipal ordinances, and ensures the efficient delivery of essential services to all residents across Obando's 11 barangays.
 
-- **Municipal Mayor:** Hon. {MAYOR}
-- **Municipal Vice Mayor:** Hon. {VICE_MAYOR}
+- **Municipal Mayor:** Hon. Leonardo "Ding" D. Valeda
+- **Municipal Vice Mayor:** Hon. Rowell S. Rillera
 - **Seat of Government:** Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
 - **Municipal Administrative Hotline:** (02) 8292-2043
 

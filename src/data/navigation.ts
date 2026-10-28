@@ -92,19 +92,27 @@ export const mainNavigation: NavigationItem[] = [
   },
   {
     label: 'Government',
-    href: '/government/departments',
+    href: '/government',
     children: [
       {
+        label: 'Government Structure & Officials',
+        href: '/government',
+      },
+      {
         label: 'Executive (Mayor & Vice Mayor)',
-        href: '/government/departments/executive',
+        href: '/government#executive',
       },
       {
         label: 'Legislative (Sangguniang Bayan)',
-        href: '/government/departments/legislative',
+        href: '/government#legislative',
       },
       {
-        label: 'All Departments & Offices',
-        href: '/government/departments',
+        label: 'Department Heads & Key Offices',
+        href: '/government#offices',
+      },
+      {
+        label: "Citizen's Charter & Transparency",
+        href: '/government/transparency-documents/citizens-charter',
       },
     ],
   },

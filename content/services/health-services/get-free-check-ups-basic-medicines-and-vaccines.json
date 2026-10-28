@@ -1,0 +1,17 @@
+{
+  "serviceMetadata": {
+    "officialTitle": "Primary Healthcare Consultations, Basic Medicines Dispensing & Diagnostic Screening",
+    "responsibleOffice": "Municipal Health Office / Rural Health Unit (RHU)",
+    "officeLocation": "RHU Main Clinic, Paliwas Municipal Compound",
+    "hotline": "(02) 8332-2744 / (02) 8709-4408",
+    "transactionType": "Simple (≤ 3 Days)",
+    "processingTime": "45 to 90 minutes (Triage, consultation, pharmacy releasing)",
+    "officialFee": "Free of charge (Libre - Covered under PhilHealth Konsulta / LGU Health Fund)",
+    "legalBasis": "Republic Act No. 11223 (Universal Health Care Act); Local Government Code of 1991",
+    "sourceUrl": "https://obando.gov.ph/",
+    "sourceName": "Obando Municipal Health Services",
+    "verificationStatus": "VERIFIED",
+    "lastVerified": "March 2026 - Obando RHU Clinic & PhilHealth Konsulta",
+    "charterSection": "MHO-01"
+  }
+}

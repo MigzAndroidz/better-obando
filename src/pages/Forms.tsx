@@ -16,6 +16,9 @@ import {
   Calendar,
   ChevronDown,
   ChevronUp,
+  ExternalLink,
+  Coins,
+  Clock,
 } from 'lucide-react';
 
 export default function Forms() {
@@ -144,9 +147,19 @@ export default function Forms() {
                         <span className="text-[11px] font-semibold px-2 py-0.5 rounded-md bg-gray-100 text-gray-700">
                           {form.category}
                         </span>
-                        <span className="text-[11px] font-semibold px-2 py-0.5 rounded-md bg-emerald-50 text-emerald-700 border border-emerald-100 flex items-center gap-1">
-                          <CheckCircle className="h-3 w-3" />
-                          {form.status}
+                        <span
+                          className={`text-[11px] font-semibold px-2 py-0.5 rounded-md border flex items-center gap-1 ${
+                            form.verificationStatus === 'VERIFIED'
+                              ? 'bg-emerald-50 text-emerald-700 border-emerald-200'
+                              : 'bg-amber-50 text-amber-700 border-amber-200'
+                          }`}
+                        >
+                          {form.verificationStatus === 'VERIFIED' ? (
+                            <CheckCircle className="h-3 w-3 text-emerald-600" />
+                          ) : (
+                            <AlertCircle className="h-3 w-3 text-amber-600" />
+                          )}
+                          {form.verificationStatus}
                         </span>
                       </div>
                       <h3 className="text-lg font-bold text-gray-900">
@@ -159,22 +172,37 @@ export default function Forms() {
                       )}
                     </div>
 
-                    <button
-                      onClick={() => toggleExpand(form.id)}
-                      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold text-primary-700 bg-primary-50 hover:bg-primary-100 rounded-lg transition-colors shrink-0 self-start sm:self-auto"
-                    >
-                      {isExpanded ? (
-                        <>
-                          Hide Requirements{' '}
-                          <ChevronUp className="h-3.5 w-3.5" />
-                        </>
-                      ) : (
-                        <>
-                          View Requirements ({form.requirements.length}){' '}
-                          <ChevronDown className="h-3.5 w-3.5" />
-                        </>
+                    <div className="flex flex-wrap items-center gap-2 self-start sm:self-auto shrink-0">
+                      {form.fileUrl && (
+                        <a
+                          href={form.fileUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold text-white bg-primary-600 hover:bg-primary-700 rounded-lg transition-colors shadow-sm"
+                        >
+                          <ExternalLink className="h-3.5 w-3.5" />
+                          {form.status === 'National Agency Link'
+                            ? 'Open National Portal'
+                            : 'Official Form Portal'}
+                        </a>
                       )}
-                    </button>
+                      <button
+                        onClick={() => toggleExpand(form.id)}
+                        className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold text-primary-700 bg-primary-50 hover:bg-primary-100 rounded-lg transition-colors shrink-0"
+                      >
+                        {isExpanded ? (
+                          <>
+                            Hide Requirements{' '}
+                            <ChevronUp className="h-3.5 w-3.5" />
+                          </>
+                        ) : (
+                          <>
+                            View Requirements ({form.requirements.length}){' '}
+                            <ChevronDown className="h-3.5 w-3.5" />
+                          </>
+                        )}
+                      </button>
+                    </div>
                   </div>
 
                   <p className="text-xs sm:text-sm text-gray-600 leading-relaxed mb-4">
@@ -192,15 +220,41 @@ export default function Forms() {
                       </div>
                     </div>
 
-                    <div className="flex items-center gap-2">
-                      <Calendar className="h-4 w-4 text-gray-400 shrink-0" />
-                      <span>
-                        Verified:{' '}
-                        <strong className="font-medium text-gray-800">
+                    <div className="flex items-start gap-2">
+                      <Calendar className="h-4 w-4 text-gray-400 shrink-0 mt-0.5" />
+                      <div>
+                        <span className="font-semibold text-gray-800">
+                          Verified:{' '}
+                        </span>
+                        <span className="font-medium text-gray-800">
                           {form.lastVerified}
-                        </strong>
-                      </span>
+                        </span>
+                      </div>
                     </div>
+
+                    {form.officialFee && (
+                      <div className="flex items-start gap-2">
+                        <Coins className="h-4 w-4 text-amber-600 shrink-0 mt-0.5" />
+                        <div>
+                          <span className="font-semibold text-gray-800">
+                            Official Fee:{' '}
+                          </span>
+                          <span>{form.officialFee}</span>
+                        </div>
+                      </div>
+                    )}
+
+                    {form.processingTime && (
+                      <div className="flex items-start gap-2">
+                        <Clock className="h-4 w-4 text-primary-600 shrink-0 mt-0.5" />
+                        <div>
+                          <span className="font-semibold text-gray-800">
+                            Processing Time:{' '}
+                          </span>
+                          <span>{form.processingTime}</span>
+                        </div>
+                      </div>
+                    )}
                   </div>
 
                   {/* Expanded Requirements Drawer */}
@@ -221,7 +275,15 @@ export default function Forms() {
                           </li>
                         ))}
                       </ul>
-                      <div className="pt-2 text-[11px] text-gray-500">
+                      {form.legalBasis && (
+                        <div className="pt-3 border-t border-gray-200/60 text-[11px] text-gray-600">
+                          <span className="font-semibold text-gray-800">
+                            Legal & Regulatory Basis:{' '}
+                          </span>
+                          <span>{form.legalBasis}</span>
+                        </div>
+                      )}
+                      <div className="pt-1 text-[11px] text-gray-500">
                         Tip: Always bring original documents alongside at least
                         two (2) clear photocopies to the designated service
                         desk.
@@ -255,6 +317,25 @@ export default function Forms() {
               </button>
             </div>
           )}
+        </div>
+
+        {/* Authoritative Forms Source Footnote */}
+        <div className="mt-8 pt-4 border-t border-gray-200 text-xs text-gray-500 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2">
+          <span>
+            Application forms and guidelines verified from the{' '}
+            <a
+              href="https://obando.gov.ph/application-forms/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary-600 hover:underline font-semibold"
+            >
+              Official Municipality of Obando Application Forms Portal
+            </a>{' '}
+            and the Obando Citizen&apos;s Charter.
+          </span>
+          <span>
+            EODB Mandate: <strong>Republic Act No. 11032</strong>
+          </span>
         </div>
       </Section>
     </>

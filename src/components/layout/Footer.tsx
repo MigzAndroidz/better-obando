@@ -1,11 +1,5 @@
 import React from 'react';
-import {
-  Facebook,
-  Twitter,
-  Instagram,
-  Youtube,
-  CheckCircle2,
-} from 'lucide-react';
+import { Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 import { footerNavigation } from '../../data/navigation';
 import { Link } from 'react-router';
 import { useTranslation } from 'react-i18next';
@@ -36,14 +30,20 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4 pt-12 pb-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <div className="flex items-center mb-4">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-primary-700 to-primary-500 flex items-center justify-center text-white mr-3 shrink-0">
-                <CheckCircle2 className="h-6 w-6" />
-              </div>
+            <div className="flex items-center gap-3 mb-4">
+              <img
+                src="/images/better-obando-logo.png"
+                alt="Better Obando Logo"
+                className="h-12 w-12 object-contain shrink-0"
+                width={48}
+                height={48}
+              />
               <div>
-                <div className="font-bold text-base">{t('site_name')}</div>
+                <div className="font-bold text-base text-white">
+                  {t('site_name')}
+                </div>
                 <div className="text-xs text-slate-400">
-                  BetterGov.ph Civic Portal
+                  Bayan ng Obando, Bulacan
                 </div>
               </div>
             </div>

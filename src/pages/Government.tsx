@@ -10,7 +10,7 @@ import {
 } from '../data/yamlLoader';
 import * as LucideIcons from 'lucide-react';
 import Breadcrumbs from '../components/ui/Breadcrumbs';
-import GovernmentActivitySection from '../components/home/GovernmentActivitySection';
+import GovernmentStructureView from '../components/government/GovernmentStructureView';
 import SEO from '../components/SEO';
 import { Card, CardContent } from '@bettergov/kapwa/card';
 import { Banner } from '@bettergov/kapwa/banner';
@@ -35,7 +35,7 @@ const Government: React.FC = () => {
   ] as React.ComponentType<{ className?: string }>;
 
   useEffect(() => {
-    if (category && categoryData) {
+    if (category && category !== 'departments' && categoryData) {
       setLoading(true);
       getCategorySubcategories(category)
         .then(setCategoryIndex)
@@ -44,21 +44,22 @@ const Government: React.FC = () => {
     }
   }, [category, categoryData]);
 
-  if (!category) {
+  if (!category || category === 'departments') {
     return (
       <>
         <SEO
-          title="Government"
-          description={`Local government departments, offices, and leadership of the ${import.meta.env.VITE_GOVERNMENT_NAME || 'Municipality of Obando'}.`}
-          keywords="Obando municipal government, mayor, sangguniang bayan, local government units"
+          title="Government Structure & Officials - Municipality of Obando"
+          description="Meet the executive leadership, Sangguniang Bayan councilors, and municipal frontline departments serving the Municipality of Obando, Bulacan."
+          keywords="Obando municipal government, mayor Leonardo Ding Valeda, vice mayor Rowell Rillera, sangguniang bayan, municipal council, Obando Bulacan departments"
         />
-        <GovernmentActivitySection
-          title="Local Government & Administration"
-          description={`Explore the executive leadership, municipal departments, and public offices of the ${import.meta.env.VITE_GOVERNMENT_NAME || 'Municipality of Obando'}.`}
-        />
+        <Section className="py-6 sm:py-8 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <Breadcrumbs className="mb-4" />
+          <GovernmentStructureView />
+        </Section>
       </>
     );
   }
+
   if (!categoryData) {
     return (
       <Section className="p-3 mb-12">

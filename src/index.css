@@ -6,28 +6,28 @@
 @import '@bettergov/kapwa/styles';
 
 :root {
-  /* Option 1: River & Mangrove (Default Obando Theme) */
-  --theme-primary-50: #eef8fa;
-  --theme-primary-100: #d4eef3;
-  --theme-primary-200: #aee0e9;
-  --theme-primary-300: #78c7d6;
-  --theme-primary-400: #3ca8be;
-  --theme-primary-500: #026c80;
-  --theme-primary-600: #025769;
-  --theme-primary-700: #024756;
-  --theme-primary-800: #063b47;
-  --theme-primary-900: #08323c;
+  /* Official Better Obando Brand Identity (Sampled from Official Logo) */
+  --theme-primary-50: #f0f4fa;
+  --theme-primary-100: #dbe6f5;
+  --theme-primary-200: #9ebde4;
+  --theme-primary-300: #5b8ecb;
+  --theme-primary-400: #2563b0;
+  --theme-primary-500: #082f65; /* Official Primary Navy */
+  --theme-primary-600: #052759; /* Logo Core Navy Badge #032759 */
+  --theme-primary-700: #03204a;
+  --theme-primary-800: #021838;
+  --theme-primary-900: #011026;
 
-  --theme-accent-50: #fef9ee;
-  --theme-accent-100: #fdf0d2;
-  --theme-accent-200: #fbe0a4;
-  --theme-accent-300: #f7ca6d;
-  --theme-accent-400: #f2ab36;
-  --theme-accent-500: #e69b00;
-  --theme-accent-600: #c97b00;
-  --theme-accent-700: #9f5803;
-  --theme-accent-800: #82450a;
-  --theme-accent-900: #6c3a0d;
+  --theme-accent-50: #fffcf2;
+  --theme-accent-100: #fff8e5;
+  --theme-accent-200: #ffedb9;
+  --theme-accent-300: #ffe089;
+  --theme-accent-400: #ffd359;
+  --theme-accent-500: #ffc629; /* Official Golden Sun Yellow #FEC224 */
+  --theme-accent-600: #d99f12;
+  --theme-accent-700: #b37d06;
+  --theme-accent-800: #8e5f05;
+  --theme-accent-900: #6b4504;
 }
 
 [data-palette='heritage'] {

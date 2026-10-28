@@ -66,12 +66,21 @@ export default function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           {/* Left Column: Civic Identity */}
           <div className="lg:col-span-7 space-y-5 animate-fade-in">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-primary-500/10 text-primary-300 border border-primary-400/30 tracking-wider uppercase">
-              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              {t(
-                'hero.eyebrow',
-                'Independent • Community-Built • Bayan ng Obando'
-              )}
+            <div className="flex items-center gap-3">
+              <img
+                src="/images/better-obando-logo.png"
+                alt="Better Obando Logo"
+                className="h-14 w-14 sm:h-16 sm:w-16 object-contain drop-shadow-lg shrink-0"
+                width={64}
+                height={64}
+              />
+              <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-semibold bg-primary-500/20 text-primary-200 border border-primary-400/30 tracking-wider uppercase">
+                <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                {t(
+                  'hero.eyebrow',
+                  'Independent • Community-Built • Bayan ng Obando'
+                )}
+              </div>
             </div>
 
             <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">

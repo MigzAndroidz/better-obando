@@ -22,14 +22,14 @@ The Sangguniang Bayan convenes for its **Regular Session every week** at the San
 
 The eight elected councilors represent the public interest and lead various standing legislative committees:
 
-1. **Hon. Councilor** — Committee on Rules, Privileges, and Legal Matters
-2. **Hon. Councilor** — Committee on Appropriations, Ways and Means, and Finance
-3. **Hon. Councilor** — Committee on Health, Sanitation, and Social Welfare
-4. **Hon. Councilor** — Committee on Public Works, Infrastructure, and Land Use
-5. **Hon. Councilor** — Committee on Agriculture, Fisheries, and Aquatic Resources
-6. **Hon. Councilor** — Committee on Education, Culture, and Historical Heritage
-7. **Hon. Councilor** — Committee on Trade, Commerce, and Business Licensing
-8. **Hon. Councilor** — Committee on Peace, Public Safety, and Disaster Preparedness
+1. **Hon. Drandren R. De Ocampo** — Committee on Rules, Privileges, and Legal Matters
+2. **Hon. Felipe F. Dela Cruz** — Committee on Appropriations, Ways and Means, and Finance
+3. **Hon. Gladys Lyn G. De Leon** — Committee on Health, Sanitation, and Social Welfare
+4. **Hon. Michael L. Dela Paz** — Committee on Public Works, Infrastructure, and Land Use
+5. **Hon. Evangeline B. Bautista** — Committee on Agriculture, Fisheries, and Aquatic Resources
+6. **Hon. Erwin M. Valeda** — Committee on Education, Culture, and Historical Heritage
+7. **Hon. Lawrence R. Banag** — Committee on Trade, Commerce, and Business Licensing
+8. **Hon. Gerald M. Gomez** — Committee on Peace, Public Safety, and Disaster Preparedness
 
 ### Ex-Officio Councilors:
 

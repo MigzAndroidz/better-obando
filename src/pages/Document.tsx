@@ -24,6 +24,8 @@ import {
 } from '../data/yamlLoader';
 import SEO from '../components/SEO';
 import { Printer, ArrowLeft } from 'lucide-react';
+import { ServiceSummaryCard } from '../components/services/ServiceSummaryCard';
+import type { ServiceMetadata } from '../types/serviceMetadata';
 
 interface DocumentProps {
   theme?: string;
@@ -264,6 +266,11 @@ export default function Document({
     return null;
   }
 
+  const serviceMetadata =
+    categoryType === 'service' && markdownContent.data?.serviceMetadata
+      ? (markdownContent.data.serviceMetadata as ServiceMetadata)
+      : null;
+
   return (
     <>
       <SEO
@@ -286,6 +293,9 @@ export default function Document({
             Print / Save Guide
           </button>
         </div>
+
+        {/* Citizen's Charter / ARTA Service Specification Summary Card */}
+        {serviceMetadata && <ServiceSummaryCard metadata={serviceMetadata} />}
 
         <Card className="border border-gray-200 bg-white shadow-sm markdown-content">
           <CardHeader className="p-6 sm:p-8">

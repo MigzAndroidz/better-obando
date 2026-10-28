@@ -8,6 +8,10 @@ export interface Barangay {
   hallAddress: string;
   landmarks: string[];
   evacuationCenter: string;
+  // Verified PSA & Administrative Data (Phase A)
+  psgcCode: string; // Official 10-digit Philippine Standard Geographic Code
+  population: number; // Official PSA 2020 Census of Population count
+  censusYear: number; // Reference Year: 2020
 }
 
 export const OBANDO_BARANGAYS: Barangay[] = [
@@ -21,6 +25,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Binuangan, Obando, Bulacan',
     landmarks: ['Manila Bay Shoreline', 'Binuangan Fish Port & Fishponds'],
     evacuationCenter: 'Binuangan Elementary School',
+    psgcCode: '0301414001',
+    population: 5045,
+    censusYear: 2020,
   },
   {
     name: 'Catanghalan',
@@ -32,6 +39,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Catanghalan, Obando, Bulacan',
     landmarks: ['Catanghalan Multi-Purpose Center', 'Catanghalan Chapel'],
     evacuationCenter: 'Catanghalan Covered Court',
+    psgcCode: '0301414002',
+    population: 3238,
+    censusYear: 2020,
   },
   {
     name: 'Hulo',
@@ -43,6 +53,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, J.P. Rizal St., Brgy. Hulo, Obando, Bulacan',
     landmarks: ['Hulo Barangay Center', 'Hulo Covered Court'],
     evacuationCenter: 'Hulo Elementary School',
+    psgcCode: '0301414003',
+    population: 2465,
+    censusYear: 2020,
   },
   {
     name: 'Lawa',
@@ -54,6 +67,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Lawa, Obando, Bulacan',
     landmarks: ['Lawa Chapel', 'Lawa Riverside Path'],
     evacuationCenter: 'Lawa Multi-Purpose Hall',
+    psgcCode: '0301414004',
+    population: 8885,
+    censusYear: 2020,
   },
   {
     name: 'Paco',
@@ -65,6 +81,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Paco, Obando, Bulacan',
     landmarks: ['Paco Covered Court', 'Paco Day Care Center'],
     evacuationCenter: 'Paco Elementary School',
+    psgcCode: '0301414005',
+    population: 7078,
+    censusYear: 2020,
   },
   {
     name: 'Pag-asa (Poblacion)',
@@ -80,6 +99,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
       'Museo de Obando',
     ],
     evacuationCenter: 'Obando Central School Covered Gym',
+    psgcCode: '0301414006',
+    population: 3448,
+    censusYear: 2020,
   },
   {
     name: 'Paliwas',
@@ -95,6 +117,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
       'Paliwas Multi-Purpose Complex',
     ],
     evacuationCenter: 'Obando Municipal Gymnasium',
+    psgcCode: '0301414007',
+    population: 5500,
+    censusYear: 2020,
   },
   {
     name: 'Panghulo',
@@ -106,6 +131,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Panghulo, Obando, Bulacan',
     landmarks: ['Obando-Valenzuela Boundary Arch', 'Panghulo Market'],
     evacuationCenter: 'Panghulo Elementary School',
+    psgcCode: '0301414008',
+    population: 13122,
+    censusYear: 2020,
   },
   {
     name: 'Salambao',
@@ -117,6 +145,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Salambao, Obando, Bulacan',
     landmarks: ['Our Lady of Salambao Shrine', 'Salambao Waterways'],
     evacuationCenter: 'Salambao Community Center',
+    psgcCode: '0301414009',
+    population: 1575,
+    censusYear: 2020,
   },
   {
     name: 'San Pascual',
@@ -128,6 +159,9 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. San Pascual, Obando, Bulacan',
     landmarks: ['San Pascual Chapel', 'San Pascual Recreation Court'],
     evacuationCenter: 'San Pascual Day Care & Community Center',
+    psgcCode: '0301414010',
+    population: 7769,
+    censusYear: 2020,
   },
   {
     name: 'Tawiran',
@@ -139,5 +173,8 @@ export const OBANDO_BARANGAYS: Barangay[] = [
     hallAddress: 'Barangay Hall, Brgy. Tawiran, Obando, Bulacan',
     landmarks: ['Tawiran Riverfront', 'Tawiran Community Hall'],
     evacuationCenter: 'Tawiran Covered Court',
+    psgcCode: '0301414011',
+    population: 1853,
+    censusYear: 2020,
   },
 ];

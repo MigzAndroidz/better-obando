@@ -1,0 +1,17 @@
+{
+  "serviceMetadata": {
+    "officialTitle": "Municipal Solid Waste Collection Schedules & Special Hauling Requests",
+    "responsibleOffice": "Municipal Environment and Natural Resources Office (MENRO)",
+    "officeLocation": "MENRO Desk, Obando Municipal Hall, Brgy. Paliwas",
+    "hotline": "(02) 8292-2043",
+    "transactionType": "Simple (≤ 3 Days)",
+    "processingTime": "1 to 2 working days for special hauling; regular routes per barangay",
+    "officialFee": "Free for regular residential collection; special bulk hauling subject to municipal fee",
+    "legalBasis": "Republic Act No. 9003 (Ecological Solid Waste Management Act of 2000); Obando Waste Management Code",
+    "sourceUrl": "https://obando.gov.ph/",
+    "sourceName": "Obando MENRO Guidelines",
+    "verificationStatus": "VERIFIED",
+    "lastVerified": "March 2026 - RA 9003 & Obando MENRO Schedule",
+    "charterSection": "MENRO-01"
+  }
+}

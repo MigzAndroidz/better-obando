@@ -24,22 +24,29 @@ export default function About() {
       <Section className="py-10">
         <Breadcrumbs className="mb-6" />
 
-        <div className="max-w-3xl mb-12">
-          <div className="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-700 mb-3">
-            Civic Technology Initiative
+        <div className="flex flex-col sm:flex-row sm:items-start gap-6 mb-12">
+          <img
+            src="/images/better-obando-logo.png"
+            alt="Better Obando Emblem"
+            className="h-20 w-20 sm:h-24 sm:w-24 rounded-full shadow-md shrink-0 border border-primary-100 bg-[#032759]"
+          />
+          <div className="max-w-2xl">
+            <div className="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-700 mb-3">
+              Civic Technology Initiative
+            </div>
+            <Heading
+              level={1}
+              className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-3"
+            >
+              About Better Obando
+            </Heading>
+            <Text className="text-lg text-gray-700 leading-relaxed">
+              Better Obando is an independent, volunteer-led civic tech project
+              designed to make public services, barangay directories, and local
+              municipal procedures accessible, clear, and easy to use for all
+              residents of Obando, Bulacan.
+            </Text>
           </div>
-          <Heading
-            level={1}
-            className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-4"
-          >
-            About Better Obando
-          </Heading>
-          <Text className="text-lg text-gray-700 leading-relaxed">
-            Better Obando is an independent, volunteer-led civic tech project
-            designed to make public services, barangay directories, and local
-            municipal procedures accessible, clear, and easy to use for all
-            residents of Obando, Bulacan.
-          </Text>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">

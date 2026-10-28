@@ -59,11 +59,11 @@ export default function GovernmentActivitySection({
         </div>
 
         <Link
-          to="/government/departments/executive"
+          to="/government"
           className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-lg bg-white hover:bg-gray-50 text-gray-800 text-xs font-bold transition-colors border border-gray-200 shrink-0 shadow-sm"
         >
           <Landmark className="h-4 w-4 text-primary-600" />
-          Mayor & Council Executive Roster →
+          Government Structure & Officials →
         </Link>
       </div>
 

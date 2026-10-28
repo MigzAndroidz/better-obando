@@ -25,6 +25,18 @@ export interface MunicipalForm {
   location: string;
   requirements: string[];
   lastVerified: string;
+  // Verified Audit & Statutory Metadata (Phase A)
+  verificationStatus:
+    | 'VERIFIED'
+    | 'NEEDS CONFIRMATION'
+    | 'OUTDATED'
+    | 'BROKEN SOURCE'
+    | 'CONFLICTING SOURCES'
+    | 'NOT YET VERIFIED';
+  officialFee?: string;
+  processingTime?: string;
+  legalBasis?: string;
+  sourceUrl?: string;
 }
 
 export const OBANDO_FORMS: MunicipalForm[] = [
@@ -37,8 +49,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Business & Permits',
     description:
       'The standard unified application form for registering a new commercial establishment or professional office in the Municipality of Obando.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location: 'BPLO Desk, Ground Floor, Obando Municipal Hall, Brgy. Paliwas',
     requirements: [
       'DTI Certificate (Sole Prop) or SEC Registration (Corp/Partnership)',
@@ -48,7 +62,13 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Occupancy Permit and Sanitary Permit',
       'Fire Safety Inspection Certificate (BFP Obando)',
     ],
-    lastVerified: "2026 Q1 - Obando Citizen's Charter",
+    legalBasis:
+      'RA 11032; RA 7160; Municipal Ordinance No. 11-33 Series of 2024',
+    processingTime: '1 to 3 working days (Simple Transaction)',
+    officialFee:
+      'Variable based on capital investment and municipal tax schedule',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - Obando Application Forms Portal',
   },
   {
     id: 'bplo-renewal',
@@ -58,8 +78,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Business & Permits',
     description:
       'Mandatory annual renewal form filed during the Business One-Stop Shop (BOSS) period every January.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location:
       'BPLO Counter / BOSS Center, Obando Municipal Hall, Brgy. Paliwas',
     requirements: [
@@ -68,7 +90,12 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Annual BIR Sales Declaration / Financial Statements',
       'Updated Sanitary Permit and Fire Safety Certificate',
     ],
-    lastVerified: "2026 Q1 - Obando Citizen's Charter",
+    legalBasis: 'RA 11032; RA 7160; Obando Municipal Revenue Code',
+    processingTime: '1 to 2 working days during January BOSS period',
+    officialFee:
+      'Variable based on annual gross receipts and local business tax',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - Obando Application Forms Portal & BOSS Center',
   },
   {
     id: 'bplo-occupational',
@@ -78,8 +105,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Business & Permits',
     description:
       'Required for all personnel, food handlers, cashiers, and workers employed in commercial establishments across Obando.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location: 'BPLO Window 2, Obando Municipal Hall',
     requirements: [
       'Barangay Clearance for Employment',
@@ -87,7 +116,14 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Medical Certificate & Stool/X-ray from Obando RHU',
       '1x1 ID pictures (2 copies)',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis:
+      'PD 856 (Sanitation Code of the Philippines); Obando Revenue Code',
+    processingTime: '1 working day',
+    officialFee:
+      'Standard permit & health inspection fee (exact fee to be re-assessed at Treasury)',
+    verificationStatus: 'NEEDS CONFIRMATION',
+    lastVerified:
+      'March 2026 - Form on Portal; Local Fee Schedule Needs Treasury Confirmation',
   },
 
   // Civil Registrar
@@ -99,8 +135,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Civil Documents',
     description:
       'Application to secure a certified municipal transcript or local civil registry copy of a birth registered in Obando.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location:
       'Office of the Municipal Civil Registrar, 2nd Floor, Municipal Hall, Brgy. Paliwas',
     requirements: [
@@ -108,7 +146,12 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       "Specific registry number or child's complete name, date of birth, and parents' names",
       'Authorization letter if requesting on behalf of an adult',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis: 'Act No. 3753 (Civil Registry Law); RA 7160',
+    processingTime: 'Same-day to 1 working day',
+    officialFee: '₱100 - ₱150 per municipal certified true copy',
+    verificationStatus: 'VERIFIED',
+    lastVerified:
+      'March 2026 - Obando Application Forms Portal (Civil Registry)',
   },
   {
     id: 'mcr-marriage-license',
@@ -118,8 +161,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Civil Documents',
     description:
       'Official filing for contracting parties residing in Obando planning a civil or religious church marriage.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location: 'Office of the Municipal Civil Registrar, Brgy. Paliwas',
     requirements: [
       'PSA Birth Certificates of both applicants',
@@ -128,7 +173,14 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Pre-Marriage Counseling Certificate (Obando RHU/MSWDO)',
       'Parental Consent (for applicants aged 18-21) or Advice (aged 22-25)',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis:
+      'Executive Order No. 209 (Family Code of the Philippines); RA 11032',
+    processingTime:
+      '10 consecutive days statutory posting period + 1 working day',
+    officialFee:
+      '₱300 - ₱500 inclusive of application, filing, and counseling fees',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - Obando Application Forms Portal (LCR Section)',
   },
 
   // Building Official / Engineering
@@ -140,8 +192,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Construction & Zoning',
     description:
       'Comprehensive technical permit required prior to constructing, renovating, or altering any residential or commercial structure in Obando.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location:
       'Office of the Building Official (OBO) / Engineering Dept, Municipal Hall, Brgy. Paliwas',
     requirements: [
@@ -151,7 +205,14 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Locational Clearance from Municipal Planning & Development Office (MPDO)',
       'Barangay Construction Clearance',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis:
+      'Presidential Decree No. 1096 (National Building Code of the Philippines)',
+    processingTime: '5 to 7 working days (Complex Technical Evaluation)',
+    officialFee:
+      'Graduated fee schedule based on NBCP floor area and construction classification',
+    verificationStatus: 'NEEDS CONFIRMATION',
+    lastVerified:
+      'March 2026 - Form on Portal; Local Assessment Rates Need OBO Confirmation',
   },
   {
     id: 'obo-occupancy-permit',
@@ -161,8 +222,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Construction & Zoning',
     description:
       'Final certification proving that a finished building complies with the National Building Code before electrical energization and occupancy.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location: 'Engineering Department, Municipal Hall, Brgy. Paliwas',
     requirements: [
       'Approved Building Permit & Plans',
@@ -170,7 +233,12 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Certificate of Completion from supervising engineer',
       'Fire Safety Inspection Certificate (BFP Obando)',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis: 'PD 1096 Sec. 309; RA 9514 (Fire Code of the Philippines)',
+    processingTime: '3 to 5 working days post-joint inspection',
+    officialFee: 'Assessment fee based on NBCP Schedule',
+    verificationStatus: 'NEEDS CONFIRMATION',
+    lastVerified:
+      'March 2026 - Form on Portal; Local Inspection Rates Need OBO Confirmation',
   },
 
   // Health Office (RHU)
@@ -184,6 +252,7 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Mandatory health inspection compliance certificate for food businesses, restaurants, markets, and public establishments.',
     status: 'In-Office Form',
     fileType: 'Physical Form',
+    sourceUrl: 'https://obando.gov.ph/',
     location: 'Rural Health Unit (RHU), Paliwas Compound, Obando, Bulacan',
     requirements: [
       'Health Certificates of all food handlers & staff',
@@ -191,7 +260,12 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Pest control certification',
       'Inspection report from Obando Sanitary Inspector',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis:
+      'Presidential Decree No. 856 (Code on Sanitation of the Philippines)',
+    processingTime: '1 to 2 working days following sanitary inspection',
+    officialFee: '₱100 - ₱300 (Scaled by establishment classification)',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - Obando RHU Guidelines & PD 856',
   },
 
   // Treasury
@@ -205,13 +279,19 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Required basic identification document for real estate transactions, government filings, and business clearances.',
     status: 'In-Office Form',
     fileType: 'Physical Form',
+    sourceUrl: 'https://obando.gov.ph/',
     location:
       'Treasury Windows 1-3, Ground Floor, Municipal Hall, Brgy. Paliwas',
     requirements: [
       'Government ID with Obando address or Barangay Certificate',
       'Declaration of Gross Annual Income / Pay slip / BIR ITR',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis: 'RA 7160 Sec. 156-164 (Local Government Code of 1991)',
+    processingTime: '10 to 15 minutes (Immediate counter issuance)',
+    officialFee:
+      '₱5.00 basic tax + ₱1.00 per ₱1,000 of gross annual income/receipts',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - RA 7160 Statutory Formula & Treasury Counter',
   },
   {
     id: 'treasury-amilyar',
@@ -223,12 +303,18 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Request for official assessment of land, building, and machinery taxes in Obando.',
     status: 'In-Office Form',
     fileType: 'Physical Form',
+    sourceUrl: 'https://obando.gov.ph/',
     location: 'Treasury Assessment Counter, Municipal Hall, Brgy. Paliwas',
     requirements: [
       'Previous year Official Receipt of RPT payment',
       'Tax Declaration Number or Land Title (TCT)',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis: 'Republic Act No. 7160 Title II (Real Property Taxation)',
+    processingTime: '15 to 30 minutes (Assessment slip & payment)',
+    officialFee:
+      'Assessed local real property tax rate based on assessed property valuation',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - Local Government Code & Municipal Treasury',
   },
 
   // MSWDO
@@ -240,8 +326,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Social Assistance',
     description:
       'Entitles residents aged 60 and above to statutory 20% discounts, medicine booklets, and municipal senior welfare programs.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location:
       'Office of Senior Citizens Affairs (OSCA) / MSWDO, Obando Municipal Compound',
     requirements: [
@@ -249,7 +337,12 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Barangay Certificate of Residency in Obando (at least 6 months)',
       'Two (2) 1x1 ID pictures',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis: 'Republic Act No. 9994 (Expanded Senior Citizens Act of 2010)',
+    processingTime: '1 to 3 working days',
+    officialFee: 'Free of charge (Libre - Mandated by statutory law)',
+    verificationStatus: 'VERIFIED',
+    lastVerified:
+      'March 2026 - Obando Application Forms Portal (OSCA Intake Form)',
   },
   {
     id: 'mswdo-pwd-id',
@@ -259,15 +352,22 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Social Assistance',
     description:
       'Official municipal registration for citizens with physical, visual, hearing, psychosocial, or intellectual disabilities.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'National Agency Link',
+    fileType: 'External Link',
+    fileUrl: 'https://prpwd.doh.gov.ph/',
+    sourceUrl: 'https://prpwd.doh.gov.ph/',
     location: 'MSWDO Office, Obando Municipal Hall Compound',
     requirements: [
       'Medical Certificate indicating specific disability from licensed physician / RHU Doctor',
       'Barangay Certificate of Residency',
       'Two (2) 1x1 recent ID photos',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis:
+      'Republic Act No. 10754; Republic Act No. 7277 (Magna Carta for Disabled Persons)',
+    processingTime: '1 to 3 working days',
+    officialFee: 'Free of charge (Libre)',
+    verificationStatus: 'VERIFIED',
+    lastVerified: 'March 2026 - DOH PRPWD Registry & Obando MSWDO Desk',
   },
 
   // MCTFRB Transport
@@ -279,8 +379,10 @@ export const OBANDO_FORMS: MunicipalForm[] = [
     category: 'Transport',
     description:
       'Required registration for TODA/PODA motorized tricycle and pedicab operators providing public transport in Obando.',
-    status: 'In-Office Form',
-    fileType: 'Physical Form',
+    status: 'Downloadable',
+    fileType: 'External Link',
+    fileUrl: 'https://obando.gov.ph/application-forms/',
+    sourceUrl: 'https://obando.gov.ph/application-forms/',
     location: 'MCTFRB Desk, Engineering/Legal Section, Obando Municipal Hall',
     requirements: [
       'TODA / PODA Board Certification of membership',
@@ -289,6 +391,11 @@ export const OBANDO_FORMS: MunicipalForm[] = [
       'Barangay Clearance & Police Clearance of driver and operator',
       'Motor vehicle roadworthiness inspection certificate',
     ],
-    lastVerified: '2026 Q1',
+    legalBasis: 'RA 7160 Sec. 447; Municipal Ordinance on Tricycle Regulation',
+    processingTime: '3 to 7 working days (Includes roadworthiness inspection)',
+    officialFee: '₱300 - ₱500 annual regulatory franchise fee',
+    verificationStatus: 'NEEDS CONFIRMATION',
+    lastVerified:
+      'March 2026 - Forms Portal; Local Franchise Quota Needs MCTFRB Confirmation',
   },
 ];
