@@ -48,13 +48,13 @@ const Government: React.FC = () => {
     return (
       <>
         <SEO
-          title="Services"
-          description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government. Find what you need for citizenship, business, education, and more.`}
-          keywords="government services, public services, local government, civic services"
+          title="Government"
+          description={`Local government departments, offices, and leadership of the ${import.meta.env.VITE_GOVERNMENT_NAME || 'Municipality of Obando'}.`}
+          keywords="Obando municipal government, mayor, sangguniang bayan, local government units"
         />
         <GovernmentActivitySection
-          title={`All local government services`}
-          description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government. Find what you need for citizenship, business, education, and more.`}
+          title="Local Government & Administration"
+          description={`Explore the executive leadership, municipal departments, and public offices of the ${import.meta.env.VITE_GOVERNMENT_NAME || 'Municipality of Obando'}.`}
         />
       </>
     );
@@ -66,7 +66,7 @@ const Government: React.FC = () => {
         <Banner
           type="error"
           title="Category not found"
-          description="The category you are looking for does not exist."
+          description="The government section you are looking for does not exist."
           icon
         />
       </Section>
@@ -78,17 +78,17 @@ const Government: React.FC = () => {
       <SEO
         title={categoryData.category || category}
         description={categoryData.description}
-        keywords={`${categoryData.category}, government services, public services, local government`}
+        keywords={`${categoryData.category}, local government, municipal departments, Obando Bulacan`}
       />
       <Section className="p-3 mb-12">
         <Breadcrumbs className="mb-8" />
-        <Icon className="h-8 w-8 mb-4 text-primary-600 rounded-md" />
+        {Icon && <Icon className="h-8 w-8 mb-4 text-primary-600 rounded-md" />}
         <Heading>{categoryData.category || category}</Heading>
         <Text className="text-gray-600 mb-6">{categoryData.description}</Text>
 
         {loading ? (
           <div className="flex justify-center items-center p-8">
-            <Text>Loading services...</Text>
+            <Text>Loading government information...</Text>
           </div>
         ) : (
           <>
@@ -100,57 +100,49 @@ const Government: React.FC = () => {
                 {categoryIndex.description}
               </Text>
             )}
+
             {categoryIndex.layout === 'grid' ? (
-              <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {subcategories.map(subcategory => (
-                  <Link
-                    key={subcategory.slug}
-                    to={`/government/${category}/${subcategory.slug}`}
-                  >
-                    <Card
-                      hoverable
-                      className="h-full border-t-4 border-primary-500"
+                  <Card key={subcategory.slug} hoverable>
+                    <Link
+                      to={`/government/${category}/${subcategory.slug}`}
+                      className="block p-6 hover:bg-gray-50 transition-colors"
                     >
                       <CardContent>
-                        <h4 className="text-lg font-medium text-gray-900">
+                        <Heading level={4} className="mb-2">
                           {subcategory.name}
-                        </h4>
+                        </Heading>
                         {subcategory.description && (
-                          <p className="mt-2 text-sm text-gray-600">
+                          <Text className="text-gray-600 text-sm">
                             {subcategory.description}
-                          </p>
+                          </Text>
                         )}
-                        <span className="inline-block px-2 py-1 mt-2 text-xs font-medium rounded-sm bg-gray-100 text-gray-800">
-                          {categoryData.category || category}
-                        </span>
                       </CardContent>
-                    </Card>
-                  </Link>
+                    </Link>
+                  </Card>
                 ))}
               </div>
             ) : (
               <div className="space-y-4">
                 {subcategories.map(subcategory => (
-                  <Link
-                    key={subcategory.slug}
-                    to={`/government/${category}/${subcategory.slug}`}
-                  >
-                    <Card hoverable className="mb-4">
+                  <Card key={subcategory.slug} hoverable>
+                    <Link
+                      to={`/government/${category}/${subcategory.slug}`}
+                      className="block p-6 hover:bg-gray-50 transition-colors"
+                    >
                       <CardContent>
-                        <h4 className="text-lg font-medium text-gray-900">
+                        <Heading level={4} className="mb-2">
                           {subcategory.name}
-                        </h4>
+                        </Heading>
                         {subcategory.description && (
-                          <p className="mt-2 text-sm text-gray-600">
+                          <Text className="text-gray-600 text-sm">
                             {subcategory.description}
-                          </p>
+                          </Text>
                         )}
-                        <span className="inline-block px-2 py-1 mt-2 text-xs font-medium rounded-sm bg-gray-100 text-gray-800">
-                          {categoryData.category || category}
-                        </span>
                       </CardContent>
-                    </Card>
-                  </Link>
+                    </Link>
+                  </Card>
                 ))}
               </div>
             )}

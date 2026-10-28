@@ -1,0 +1,36 @@
+{
+  "site_name": "Bayan ng Obando",
+  "site_description": "Isang portal na pinapatakbo ng komunidad para sa Bayan ng Obando, Bulacan",
+  "hero": {
+    "eyebrow": "Independyente • Gawa ng Komunidad • Para sa Obando",
+    "title": "Mas maayos na serbisyo at impormasyon para sa Obando.",
+    "subtitle": "Isang inisyatibang pangkomunidad na nagpapadali sa paghahanap ng mga serbisyong pambayan, direktoryo ng barangay, at abiso sa high tide.",
+    "exploreServices": "Tingnan ang mga Serbisyo",
+    "findService": "Maghanap ng Serbisyong Pampamahalaan sa Obando",
+    "frequentlyNeeded": "Mga Madalas Hanaping Serbisyo"
+  },
+  "services": {
+    "title": "Mga Serbisyo at Impormasyon",
+    "governmentServices": "Mga Serbisyong Pambayan",
+    "description": "Mabilis at madaling pag-access sa mga serbisyo ng lokal na pamahalaan para sa negosyo, kalusugan, edukasyon, at iba pa.",
+    "viewAll": "Tingnan Lahat ng Serbisyo",
+    "viewAllCategory": "Tingnan Lahat"
+  },
+  "governmentActivity": {
+    "title": "Pamahalaang Bayan at mga Tanggapan",
+    "description": "Impormasyon ukol sa pamunuan ng alkalde, mga departamento, at Sangguniang Bayan ng Obando."
+  },
+  "weather": {
+    "title": "Ulat Panahon at Antas ng High Tide"
+  },
+  "footer": {
+    "copyright": "© 2026 Better Obando. Proyektong Civic Technology para sa Bayan ng Obando, Bulacan."
+  },
+  "navbar": {
+    "government": "Pamahalaan",
+    "services": "Mga Serbisyo",
+    "barangays": "Mga Barangay",
+    "communitytools": "Mga Gamit Pangkomunidad",
+    "hotlines": "Mga Hotline"
+  }
+}

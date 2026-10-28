@@ -1,9 +1,14 @@
-# legislative Department Pages
-# This file contains all the pages/governments/departments/legislative available under the Department
-#
+# Legislative Department Pages - Sangguniang Bayan of Obando
 layout: grid
-title: 'Legislative Department'
-description: 'Page Description'
+title: 'Sangguniang Bayan of Obando'
+description: 'The municipal legislative council of Obando, Bulacan, responsible for enacting municipal ordinances, passing local resolutions, and approving the municipal annual budget.'
 pages:
-  - name: 'Councilor A'
-    description: 'Description'
+  - name: 'Municipal Vice Mayor & Presiding Officer'
+    slug: 'vice-mayor'
+    description: 'Hon. Rowell S. Rillera, presiding officer of the Sangguniang Bayan.'
+  - name: 'Municipal Councilors (Sangguniang Bayan Members)'
+    slug: 'councilors'
+    description: 'Elected councilors representing the citizens of Obando across committee assignments.'
+  - name: 'Municipal Ordinances & Resolutions'
+    slug: 'ordinances'
+    description: 'Public record of municipal tax codes, environmental ordinances, zoning, and safety regulations.'

@@ -1,116 +1,91 @@
-# Access Educational Support Programs from the LGU — Lapu-Lapu City
+# Access Educational Support Programs from the Obando Municipal Government
 
-Below are **city-led** or **LGU-facilitated** programs you can use for study support: free school supplies, e-library access, student employment (SPES) via PESO, scholarships, and cash/education assistance. Links point to official pages or recent announcements.
-
----
-
-## 1) Free School Supplies (SEF-funded)
-
-**What it is**
-
-- The City provides **free school supplies** to public school learners using the **Special Education Fund (SEF)**, announced each school year with distribution schedules.
-
-**How to access**
-
-1. Watch your school’s advisory and the **DepEd Lapu-Lapu** Division memos for **distribution schedules**.
-2. Learners (with parent/guardian) claim supplies at the school on the announced date.
-
-**Links**
-
-- DepEd Lapu-Lapu memo: **Distribution of School Supplies (SEF)** (2025 schedule) — depedlapulapu.net.ph
-- News: **City to distribute free school supplies** — SunStar Cebu (June 7, 2025)
-- City info posts often echo the distribution dates via DepEd/City channels.
+> Learn about the Special Education Fund (SEF), school supplies distributions, student financial aid, and public school support in the Municipality of Obando.
 
 ---
 
-## 2) City e-Library (Free Study Space, Wi-Fi, Computers & Printing)
+## Overview
 
-**What it is**
+The **Municipality of Obando**, through the **Local School Board (LSB)** and the **Office of the Municipal Mayor**, actively invests in quality public education using allocations from the **Special Education Fund (SEF)** and municipal general funds.
 
-- A **government-run e-Library** offering **free internet, computer use, and printing** for students; open **daily 8:00 a.m.–12:00 midnight** at **Hoops Dome, Brgy. Gun-ob**.
-
-**How to access**
-
-1. Go to the **Lapu-Lapu City e-Library (Hoops Dome)** during operating hours.
-2. Sign the logbook; follow usage limits (to give everyone a turn).
-
-**Links**
-
-- SunStar: **E-Library reopens; open daily 8 a.m.–12 midnight** (July 26, 2025)
-- The POST: **City library reopens, free digital access & printing** (July 28, 2025)
-- Background: **City launched first gov’t e-Library** (2019) — Cebu Daily News
+Working closely with the **Department of Education (DepEd) Schools Division of Bulacan (EDDIS II)** and local school heads, the LGU provides supplemental resources, classroom infrastructure maintenance, annual school supply kits, and student employment opportunities for the youth of Obando.
 
 ---
 
-## 3) Student Employment (SPES) via PESO Lapu-Lapu
+## 1. Free School Supplies and Learning Kits (SEF-Funded)
 
-**What it is**
+At the beginning of each academic school year, the Municipal Government of Obando distributes **free school supply kits** to enrolled public elementary and junior high school students across all public schools in the municipality.
 
-- The **Special Program for the Employment of Students (SPES)** lets poor but deserving **students/OSYs (15–30)** work during breaks to earn and gain experience.
-- Implemented locally through the **Public Employment Service Office (PESO)** with DOLE.
+### What is Included in the Kit:
 
-**How to access**
+- Notebooks (composition, writing, and spiral)
+- Ballpens, pencils, sharpeners, and erasers
+- Pad paper (Grade 1-4 ruled pads and intermediate pads)
+- Crayons, ruler, and plastic school envelope
+- Health hygiene packs (alcohol, soap, or face masks)
 
-1. Follow **PESO Lapu-Lapu City** on Facebook for **SPES application windows** and job fair advisories.
-2. Prepare IDs, school docs, and income/indigency proofs per announcement.
-3. Submit online or at the PESO office; attend orientation when shortlisted.
+### Distribution Protocol:
 
-**Links**
-
-- **PESO Lapu-Lapu City** Facebook page (official announcements)
-- DepEd/BLSS-YFD: **SPES 2025 guidelines & timelines**
-- City press: **PESO career fair / youth employment events** — City Information Office
-
----
-
-## 4) LGU-linked Scholarships & Incentives
-
-**What it is**
-
-- The City (and Congressional office) **periodically opens scholarship calls** or **educational incentives** for local students, separate from school-based grants.
-
-**How to access**
-
-1. Monitor the **Lapu-Lapu City Government / City Information Office** and the **Office of the Mayor / Congresswoman** for official **calls**.
-2. Prepare residency and academic documents; submit by deadline; attend screening/orientation.
-
-**Links (examples & history)**
-
-- News: **Lapu-Lapu City offers college scholarship to poor residents** — The Freeman/Philstar (program history)
-- Sample: **Cindi “Skwela” Scholarship** highlights via official pages (video updates)
-- Also check school-based options in-city (e.g., **LCIC scholarships**, **UC scholarships**) which can complement LGU aid.
+- Distribution is scheduled per school in coordination with the DepEd Obando District supervisor and school principals.
+- No individual application is required; all officially enrolled learners in Obando public schools are included on master lists prepared by their class advisers.
+- Distributions are held on school grounds prior to or during the first week of classes.
 
 ---
 
-## 5) Educational / Cash Assistance (LGU-facilitated with DSWD)
+## 2. Special Program for the Employment of Students (SPES)
 
-**What it is**
+Implemented in partnership with the **Department of Labor and Employment (DOLE)** and the **Obando Public Employment Service Office (PESO)**, SPES provides temporary paid employment to poor but deserving students and out-of-school youth during summer and semestral breaks.
 
-- **Educational assistance pay-outs** (e.g., AICS) are nationally run by DSWD but are often **coordinated locally** with the **City** for venue and beneficiary management.
+### Eligibility Criteria:
 
-**How to access**
+- Must be 15 to 30 years old.
+- Currently enrolled in high school, college, or technical-vocational school (or intending to re-enroll if an out-of-school youth).
+- Bona fide resident of Obando, Bulacan.
+- Combined annual net income of parents must not exceed the regional poverty threshold.
+- Must have passing grades with no failing or dropped subjects.
 
-1. Watch announcements from **DSWD-7** and the **City Information Office** for **Lapu-Lapu payout schedules**.
-2. Bring student ID, enrollment proof, and required forms on your assigned date.
+### Compensation Structure:
 
-**Links (context)**
+- **60%** paid by the Local Government Unit of Obando.
+- **40%** paid by the Department of Labor and Employment (DOLE) through educational vouchers or cash cards.
+- Work period typically ranges from 20 to 30 working days assigned to municipal administrative offices, barangay halls, or community indexing programs.
 
-- SunStar Cebu: **Education assistance payout in Lapu-Lapu** (local coverage)
-- Cebu Daily News: **DSWD-7 educational assistance** (program overview & amounts)
+### Where to Inquire:
 
----
-
-## Quick Directory
-
-- **City Information Office (Lapu-Lapu City)** — city-wide program announcements
-- **PESO Lapu-Lapu City** — SPES, job fairs, recruitment & youth work programs
-- **DepEd Lapu-Lapu Division** — school memos (SEF supplies, schedules)
-- **Lapu-Lapu City e-Library (Hoops Dome, Gun-ob)** — free study space & digital access
+- Visit the **Public Employment Service Office (PESO)** at the Obando Municipal Hall, Brgy. Paliwas, or watch for the annual SPES recruitment bulletin in March/April.
 
 ---
 
-## Tips to Maximize Support
+## 3. Public School Infrastructure and Disaster Resilience
 
-- **Stack benefits** where allowed: e.g., SEF school supplies **+** SPES stipend **+** school-based scholarship.
-- Keep a folder with **PSA Birth Cert**, **Barangay Residency**, **School ID**, **Report Cards/COE**, and **2x2 photos** ready.
-- Turn on notifications for **PESO** and **City Information** pages so you don’t miss application windows.
+Obando's coastal and low-lying topography makes its public school campuses vulnerable to high tides and monsoon rains. The LGU's Local School Board allocates SEF capital outlay for:
+
+- **Elevated Walkways and Drainage Upgrades:** Connecting classrooms and gates to ensure learners stay dry during peak coastal high tides.
+- **Classroom Repairs & Painting:** Annual "Brigada Eskwela" support providing construction materials, paint, and electrical repairs.
+- **Alternative Learning System (ALS) Support:** Equipping community learning centers with computers and instructional modules for adult learners and working youth.
+
+---
+
+## Public Schools in Obando
+
+Primary and secondary public schools served by Obando educational support include:
+
+- **Obando National High School** (Paliwas)
+- **Obando Central School** (Poblacion / Paliwas)
+- **Binuangan Elementary School** (Brgy. Binuangan island community)
+- **Salambao Elementary School** (Brgy. Salambao)
+- **Panghulo Elementary School** (Brgy. Panghulo)
+- **Catanghalan Elementary School** (Brgy. Catanghalan)
+- **Paco Elementary School** (Brgy. Paco)
+- **Lawa Elementary School** (Brgy. Lawa)
+- **San Pascual Elementary School** (Brgy. San Pascual)
+- **Tawiran Elementary School** (Brgy. Tawiran)
+
+---
+
+## Contact Information
+
+- **Office:** Obando Local School Board / Office of the Municipal Mayor
+- **Address:** 2nd Floor, Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **PESO Obando Desk:** Ground Floor, Municipal Hall
+- **Municipal Trunkline:** (02) 8292-2043

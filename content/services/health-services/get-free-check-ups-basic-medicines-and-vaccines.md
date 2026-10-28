@@ -1,41 +1,84 @@
-# Lapu-Lapu City Government: Free Health Services
+# Free Medical Check-ups, Basic Medicines, and Vaccines in Obando
 
-The Lapu-Lapu City Government offers free **check-ups, medicines, and vaccines** through the City Health Office (CHO), barangay health centers, and partner programs.
-
----
-
-## 1. Free Medical Check-ups
-
-| Service              | Where                        | Schedule                                     | Requirements                                              |
-| -------------------- | ---------------------------- | -------------------------------------------- | --------------------------------------------------------- |
-| General consultation | City/Barangay Health Centers | Mon–Fri, 8 AM–5 PM (varies by health center) | Individual Treatment Record (ITR) — issued on first visit |
+> How residents can avail themselves of primary healthcare consultations, essential prescription medicines, and routine vaccines through the Obando Rural Health Unit (RHU) and Barangay Health Stations.
 
 ---
 
-## 2. Free Basic Medicines
+## Overview
 
-| Service                                          | Where                                    | Schedule           | Requirements                                                                                     |
-| ------------------------------------------------ | ---------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-| Free basic medicines                             | City Health Office (CHO) pharmacy        | Mon–Fri, 8 AM–5 PM | Doctor’s prescription and/or referral from hospital/clinic                                       |
-| Medicines for indigent seniors (MAIFIPP program) | Partner pharmacies (Basak, Carajay, Ibo) | Pharmacy hours     | Must be an indigent senior citizen, bona fide resident; coverage caps (e.g., ₱3,000 out-patient) |
+The **Municipality of Obando**, through the **Municipal Health Office / Obando Rural Health Unit (RHU)** and the network of **Barangay Health Stations (BHS)** in all 11 barangays, provides comprehensive primary health care to residents.
 
----
-
-## 3. Free Vaccines & Immunization
-
-| Beneficiary       | Vaccine/Service                                          | Where                        | Schedule                        | Requirements                                             |
-| ----------------- | -------------------------------------------------------- | ---------------------------- | ------------------------------- | -------------------------------------------------------- |
-| Children          | BCG, Pentavalent, OPV/IPV, MMR, Hepatitis B, PCV13 (EPI) | Barangay Health Centers      | Typically Wednesdays, 8 AM–4 PM | ECCD card (first-timers can get one onsite)              |
-| Pregnant women    | Tetanus Toxoid vaccine + supplements                     | Barangay Health Centers      | During prenatal services        | Proof of pregnancy, ECCD/record                          |
-| Animal bite cases | Anti-rabies vaccine (first dose free)                    | Animal Bite Treatment Center | Clinic hours                    | Proof of Lapu-Lapu residency (e.g., voter’s certificate) |
+Services are funded through local municipal health allocations, the Department of Health (DOH), and the Universal Health Care (UHC) program. Consultations, primary examinations, and basic maintenance medicines are provided **free of charge** to bona fide residents of Obando.
 
 ---
 
-## How to Avail
+## 1. Free Medical Check-ups and Consultations
 
-1. **Check-ups** → Go to your Barangay Health Center or City Health Office; first-timers will be issued an ITR.
-2. **Medicines** → Bring a doctor’s prescription/referral; submit at CHO pharmacy window.
-3. **Child immunization** → Visit your barangay health center on immunization day with ECCD card.
-4. **Pregnancy services** → Attend prenatal visits at the barangay health center for free vaccine and supplements.
-5. **Anti-rabies** → Report to the Animal Bite Treatment Center; bring proof of residency.
-6. **Senior citizen medicines** → Visit participating partner pharmacies; follow MAIFIPP guidelines.
+| Service                                                                     | Facility                                                    | Schedule                                                         | Requirements                                                                                                              |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **General Outpatient Consultation**                                         | Obando Rural Health Unit (RHU Main, Brgy. Paliwas)          | Monday to Friday, 8:00 AM – 5:00 PM                              | Valid ID with Obando address, PhilHealth ID (if available), Patient Record / Family Health Folder (issued on first visit) |
+| **Barangay Health Station Clinic**                                          | Respective Barangay Health Stations across all 11 barangays | Scheduled clinic days (typically 1–2 days per week per barangay) | Barangay residency, valid ID                                                                                              |
+| **Basic Diagnostic Services** (Urinalysis, CBC, Blood Glucose, Sputum Test) | RHU Laboratory (Brgy. Paliwas)                              | Monday to Thursday, 8:00 AM – 11:30 AM (Laboratory intake)       | Doctor's lab request from the RHU physician                                                                               |
+
+---
+
+## 2. Free Essential Medicines (Botika sa Bayan / RHU Pharmacy)
+
+Residents who undergo medical consultation at the Obando RHU or present an accredited government physician's prescription are entitled to free essential medicines from the municipal pharmacy stock, subject to availability:
+
+- **Maintenance Medicines for Hypertension and Diabetes:** Amlodipine, Losartan, Metformin (provided through the DOH Hypertension and Diabetes Club).
+- **Common Antibiotics and Analgesics:** Amoxicillin, Cefalexin, Co-Amoxiclav, Paracetamol, Ibuprofen, Mefenamic Acid.
+- **Pediatric Suspensions:** Paracetamol syrup, oral rehydration salts (ORS), Zinc supplements, Multivitamins.
+- **Cough and Cold Preparations:** Salbutamol nebulizing solutions, Cetirizine, Ambroxol.
+
+### How to Claim Medicines:
+
+1. Complete consultation with the RHU Municipal Health Officer or attending physician.
+2. Present the written prescription to the **RHU Pharmacy Window**.
+3. The dispensing pharmacist verifies patient identity, records the prescription in the patient ledger, and dispenses the medications with clear dosage instructions.
+
+---
+
+## 3. Routine Child and Adult Immunizations
+
+Vaccination services follow the Department of Health's National Immunization Program (NIP) and are administered free of charge:
+
+| Beneficiary Group                    | Vaccine Provided                                                                                                                            | Location                                          | Schedule                                                      |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- |
+| **Infants & Toddlers (0–12 months)** | BCG, Hepatitis B, Pentavalent (DPT-HepB-HiB), Oral Polio (OPV), Inactivated Polio (IPV), Measles-Rubella (MR), Pneumococcal Conjugate (PCV) | Barangay Health Stations & RHU Paliwas            | Every Wednesday (Regular Immunization Day), 8:00 AM – 3:00 PM |
+| **Pregnant Women**                   | Tetanus-Diphtheria (Td) Toxoid vaccines                                                                                                     | RHU Prenatal Clinic & Barangay Health Stations    | Scheduled prenatal clinic days                                |
+| **Senior Citizens (60+ yrs)**        | Pneumococcal Polysaccharide Vaccine & Annual Seasonal Flu Vaccine                                                                           | Obando RHU / OSCA Scheduled Vaccination Drives    | Scheduled campaigns announced per barangay                    |
+| **Animal Bite Patients**             | Anti-Rabies Vaccine (Post-Exposure Prophylaxis / PEP)                                                                                       | Obando Animal Bite Treatment Center (RHU Paliwas) | Monday to Friday clinic hours                                 |
+
+---
+
+## Step-by-Step Clinic Flow at Obando RHU
+
+```
+[Step 1: Triage & Registration]
+Present valid ID at the Triage Counter (Paliwas).
+Vitals recorded (Blood pressure, temperature, weight, pulse).
+Family Health Folder retrieved or newly created.
+       ↓
+[Step 2: Medical Consultation]
+Physician examination by the Municipal Health Officer (MHO) or Medical Officer.
+Diagnosis, counseling, and issuance of prescription / lab requests.
+       ↓
+[Step 3: Laboratory / Diagnostic Testing] (If required)
+Proceed to RHU Laboratory for blood or urine analysis.
+Results released to physician for treatment decision.
+       ↓
+[Step 4: Pharmacy Dispensing]
+Submit prescription to the RHU Pharmacy Window.
+Claim free medicines and instructions.
+```
+
+---
+
+## Important Health Hotlines & Locations
+
+- **Facility:** Obando Rural Health Unit (RHU Main)
+- **Address:** J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021 (Beside the Municipal Hall)
+- **RHU Contact Number:** (02) 8332-2744
+- **Obando MDRRMO Ambulance & Rescue (24/7):** (02) 8281-5816
+- **Barangay Health Stations:** Located in Binuangan, Catanghalan, Hulo, Lawa, Paco, Pag-asa, Paliwas, Panghulo, Salambao, San Pascual, and Tawiran.

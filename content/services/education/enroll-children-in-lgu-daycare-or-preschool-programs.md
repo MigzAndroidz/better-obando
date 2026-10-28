@@ -1,78 +1,111 @@
-# Enroll Children in LGU Daycare or Preschool Programs — Lapu-Lapu City
+# Enroll Children in LGU Daycare Centers and Preschool Programs in Obando
 
-The Lapu-Lapu City Government, through the **City Social Welfare and Development Office (CSWDO)** and barangays, operates **daycare centers** and supports **public preschool education**.
-
----
-
-## 1) LGU Daycare Programs
-
-**What’s offered**
-
-- Early childhood care and development for children aged **3–4 years old**.
-- Daily activities on socialization, basic learning skills, play-based lessons, and health/nutrition monitoring.
-- Free or minimal-cost supplementary feeding (depending on barangay program).
-
-**Who can join**
-
-- Children aged **3–4 years old** who are residents of the barangay.
-- Priority is often given to **indigent families** or those referred by barangay officials.
-
-**Requirements (typical)**
-
-- Child’s **birth certificate** (PSA copy or local civil registrar copy).
-- **Barangay clearance** or proof of residency.
-- 1×1 ID photo of the child (for records).
-- Filled-out **Daycare Enrollment Form** (available at the center).
-
-**How to enroll**
-
-1. Visit your **Barangay Daycare Center** or **Barangay Hall** to ask for the enrollment schedule.
-2. Submit required documents and fill out the enrollment form.
-3. Attend the orientation session for parents/guardians (usually held before classes start).
-
-**Cost:** Free (LGU-funded), though some barangays may request voluntary contributions for class materials.
+> Procedures for enrolling young children aged 3 to 5 in Obando's Barangay Child Development Centers (Daycare) and public kindergarten schools.
 
 ---
 
-## 2) Public Preschool (Kindergarten)
+## Overview
 
-**What’s offered**
+The **Municipal Social Welfare and Development Office (MSWDO)** of Obando oversees the operation of **Child Development Centers (CDCs)**—formerly known as Barangay Daycare Centers—in all 11 barangays of Obando.
 
-- Department of Education (DepEd) **Kindergarten Program** for **5-year-old children**, implemented in public elementary schools.
-- Focus on school readiness: literacy, numeracy, and social skills.
+These early childhood centers provide community-based learning, social interaction, moral development, basic numeracy/alphabet foundations, and nutritional monitoring for children aged **3 to 4 years old** before they enter formal DepEd kindergarten at age 5.
 
-**Who can join**
-
-- Children aged **5 years old** by the opening of the school year.
-- Priority for residents within the school’s catchment area.
-
-**Requirements (typical DepEd)**
-
-- Child’s **birth certificate** (PSA).
-- Proof of residency (Barangay Certificate).
-- 2×2 ID photo of the child.
-- Accomplished **DepEd Kindergarten Registration Form** (given at school).
-
-**How to enroll**
-
-1. Proceed to the **nearest public elementary school** during the announced **DepEd early registration** or regular enrollment period.
-2. Submit required documents to the school registrar.
-3. Attend orientation for parents and guardians.
-
-**Cost:** Free (government-funded).
+All LGU Child Development Centers are **free of tuition**, funded through municipal and barangay development budgets.
 
 ---
 
-## Contact & Updates
+## 1. Barangay Child Development Centers (Daycare - Ages 3 to 4)
 
-- **Barangay Daycare Centers** — Enrollment schedules and requirements are usually announced by barangay officials.
-- **City Social Welfare and Development Office (CSWDO)** — Oversees daycare programs.
-- **DepEd Lapu-Lapu City Division** — Manages public kindergarten enrollment.
+### Curriculum Focus:
+
+- Play-based socialization, sharing, and peer interaction.
+- Language acquisition in Filipino and Mother Tongue, storytelling, and singing.
+- Basic fine motor development (holding crayons, drawing, tracing shapes).
+- Values formation, personal hygiene (proper handwashing, tooth brushing), and road safety.
+- Daily supplementary feeding meals provided in partnership with the Municipal Nutrition Action Officer.
+
+### Locations of Child Development Centers:
+
+Every barangay in Obando maintains at least one Child Development Center managed by an accredited Child Development Worker (CDW):
+
+- **Binuangan CDC:** Brgy. Binuangan
+- **Catanghalan CDC:** Brgy. Catanghalan
+- **Hulo CDC:** Brgy. Hulo
+- **Lawa CDC:** Brgy. Lawa
+- **Paco CDC:** Brgy. Paco
+- **Pag-asa CDC:** Brgy. Pag-asa (Poblacion)
+- **Paliwas CDC:** Brgy. Paliwas
+- **Panghulo CDC:** Brgy. Panghulo
+- **Salambao CDC:** Brgy. Salambao
+- **San Pascual CDC:** Brgy. San Pascual
+- **Tawiran CDC:** Brgy. Tawiran
+
+### Age Requirements:
+
+- **Pre-Kinder 1 (Nursery):** Children who are at least 3 years old by the opening of classes.
+- **Pre-Kinder 2 (Pre-K):** Children who are 4 years old.
+
+### Documentary Requirements for Daycare:
+
+1. Child's **PSA Birth Certificate** (or Local Civil Registrar certified copy from Obando Civil Registry).
+2. Child's **ECCD Health Card / Immunization Record** showing completed vaccines.
+3. **Barangay Certificate of Residency** of parent or legal guardian.
+4. Two (2) recent 1x1 ID pictures of the child.
+5. 1x1 photo of the parent or authorized guardian permitted to pick up the child.
+6. Accomplished Early Childhood Care and Development Enrollment Form.
 
 ---
 
-### Quick Tips
+## 2. Public Elementary Kindergarten (DepEd - Age 5)
 
-- Enroll early — daycare and preschool slots may be limited per barangay/school.
-- Keep copies of your child’s **birth certificate** and **barangay certificate** ready.
-- Attend parent orientations to understand your role in supporting your child’s early education.
+Under Republic Act 10157 (Kindergarten Education Act), universal kindergarten is compulsory and mandatory for all 5-year-old children before admission to Grade 1.
+
+### Public Schools Offering Kindergarten in Obando:
+
+- Obando Central School
+- Obando National High School (Elementary Annex)
+- Binuangan Elementary School
+- Salambao Elementary School
+- Panghulo Elementary School
+- Catanghalan Elementary School
+- Paco Elementary School
+- Lawa Elementary School
+- San Pascual Elementary School
+- Tawiran Elementary School
+
+### DepEd Kindergarten Requirements:
+
+- Age requirement: The child must turn **5 years old** on or before October 31 of the school year.
+- PSA Birth Certificate (original presented, photocopy submitted).
+- Basic Education Enrollment Form (BEEF) provided during DepEd Early Registration (typically held in January-February).
+
+---
+
+## Step-by-Step Enrollment Flow for Daycare
+
+```
+[Step 1: Inquire at Host Barangay Hall]
+Visit your Barangay Hall or Child Development Center during enrollment period (April–June).
+Meet the Barangay Child Development Worker (CDW).
+       ↓
+[Step 2: Submit Documents]
+Submit birth certificate, immunization record, residency certificate, and photos.
+Complete child's developmental intake profile.
+       ↓
+[Step 3: Health Screening & Nutrition Baseline]
+Child's height and weight recorded for baseline nutritional status.
+Verification of childhood vaccines with the Barangay Health Station.
+       ↓
+[Step 4: Orientation & Class Assignment]
+Attend mandatory General Assembly orientation for parents.
+Receive session schedule (Morning Session: 8:00 AM – 10:00 AM, or Afternoon: 1:00 PM – 3:00 PM).
+```
+
+---
+
+## Frontline Contacts
+
+- **Supervising Department:** Municipal Social Welfare and Development Office (MSWDO)
+- **Location:** Ground Floor, Obando Municipal Hall, Brgy. Paliwas, Obando, Bulacan 3021
+- **Service Hours:** Monday to Friday, 8:00 AM – 5:00 PM
+- **Municipal Trunkline:** (02) 8292-2043

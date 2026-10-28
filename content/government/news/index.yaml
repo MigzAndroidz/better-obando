@@ -1,0 +1,13 @@
+# News & Public Advisories - Municipality of Obando
+layout: grid
+title: 'Municipal News & Public Advisories'
+description: 'Official announcements, weather advisories, high-tide bulletins, and community notices from the Municipality of Obando.'
+
+pages:
+  - name: 'Public Advisories & Tide Bulletins'
+    slug: 'advisories'
+    description: 'Official announcements on high-tide road flooding, weather bulletins, class and work suspensions, and emergency advisories.'
+
+  - name: 'Municipal News & Development Updates'
+    slug: 'press-releases'
+    description: 'News reports, community program launches, infrastructure milestones, and civic initiatives of the local government.'

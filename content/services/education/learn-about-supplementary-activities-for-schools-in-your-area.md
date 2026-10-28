@@ -1,89 +1,71 @@
-# Learn About Supplementary Activities for Schools in Your Area — Lapu-Lapu City
+# Supplementary Activities, Clubs, and Enrichment Programs for Schools in Obando
 
-This guide shows where to find **clubs, student organizations, competitions, service groups, and enrichment programs** available to learners in Lapu-Lapu City.
-
----
-
-## Where to Look First (Local)
-
-1. **Your school’s official page or FB** — most clubs post tryout/enlistment dates there.
-2. **DepEd Lapu-Lapu City Division** — division-wide contests, trainings, and circulars:
-   - Website: https://depedlapulapu.net.ph/
-   - FB page: https://www.facebook.com/DepEDLLC/
-3. **City facilities** — the **Lapu-Lapu City e-Library (Hoops Dome, Gun-ob)** runs study support and computer/printing access (open daily 8:00 a.m.–12:00 midnight):
-   - SunStar article: https://www.sunstar.com.ph/cebu/lapu-lapu-city-reopens-e-library
-   - The POST coverage: https://thepost.net.ph/news/nation/lapu-lapu-city-library-reopens-offers-free-study-space-and-digital-access-for-students/
+> Student leadership, scouting, science and environmental clubs, sports meets, and heritage arts programs available to learners in the Municipality of Obando.
 
 ---
 
-## Core Student Organizations (DepEd-recognized)
+## Overview
 
-| Organization                                              | What it does                                                                        | Learn more                                                                                                                         |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Supreme Pupil/Student Government (SPG/SSG)**            | Student leadership, school/community projects, assemblies, advocacy campaigns       | DepEd policy brief (PDF): https://www.deped.gov.ph/wp-content/uploads/2014/12/DO_s2014_47.pdf                                      |
-| **YES-O (Youth for Environment in Schools Organization)** | Environmental projects: clean-ups, waste management, tree-planting, 4 o’clock habit | Overview: https://www.deped.gov.ph/2003/09/01/do-72-s-2003-establishment-of-the-youth-for-environment-in-schools-yes-organization/ |
-| **Campus Journalism (School Papers)**                     | Writing, editing, layout, radio/TV script, participation in press conferences       | Start with your English/Filipino department; division circulars are posted on DepEd Lapu-Lapu site/FB                              |
+Public and private school learners in the Municipality of Obando participate in a rich variety of co-curricular and extracurricular programs designed to build leadership, scientific inquiry, civic responsibility, and cultural pride.
+
+These programs are coordinated by the **Department of Education (DepEd) Schools Division of Bulacan (EDDIS II)** in partnership with the **Municipal Government of Obando**, the **Sangguniang Kabataan (SK) Municipal Federation**, and local cultural custodians.
 
 ---
 
-## Service & Skills Organizations (Often School-Based Chapters)
+## 1. Recognized Student Leadership and Governance
 
-| Organization                             | Typical activities                                         | Learn more                               |
-| ---------------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
-| **Red Cross Youth**                      | First aid basics, disaster preparedness, volunteer service | https://redcross.org.ph/red-cross-youth/ |
-| **Boy Scouts of the Philippines (BSP)**  | Scouting skills, leadership camps, community service       | National site: https://scouts.gov.ph/    |
-| **Girl Scouts of the Philippines (GSP)** | Leadership, life skills, community projects, camping       | https://girlscouts.org.ph/               |
-
-> Ask your school for **recognition and membership schedules** if you want to start or reactivate a chapter.
+- **Supreme Secondary Learner Government (SSLG) & Supreme Elementary Learner Government (SELG):**
+  - Official student governing bodies elected annually in every elementary and high school.
+  - Organizes campus cleanliness drives, peer tutoring, anti-bullying campaigns, and student representations in school planning councils.
+- **Sangguniang Kabataan (SK) School-Community Partnerships:**
+  - The 11 Barangay SK Councils and the SK Municipal Federation sponsor student leadership seminars, youth mental health awareness forums, and free review classes for college entrance tests.
 
 ---
 
-## Academic & Interest Clubs (examples you’ll commonly find)
+## 2. Environmental and Science Clubs
 
-- **STEM/Math/Science clubs** — science fairs, investigatory projects, robotics/ICT showcases
-- **Araling Panlipunan & Social Science clubs** — quiz bowls, heritage walks, civic advocacy
-- **MAPEH / Arts, Music, Dance & Theater** — talent showcases, chorale, dance troupe, theater guild
-- **TLE/ICT clubs** — coding basics, multimedia, entrepreneurship pop-ups
-- **Sports teams** — tryouts announced by the school’s MAPEH/sports coordinator (division meets posted by DepEd)
-
-> Tip: Most schools post **club enlistment** in the first month of classes and **tryout notices** before division meets. Keep an eye on your school’s channels.
-
----
-
-## Enrichment & Alternative Pathways
-
-- **ALS (Alternative Learning System)** — if you’re out-of-school youth or need flexible learning.
-  - DepEd Lapu-Lapu Division contact page lists ALS focal persons: https://depedlapulapu.net.ph/contact-us/
-- **City e-Library Programs** — occasional **digital skills** and study support activities (ask staff at Hoops Dome).
-- **Youth & Environment / Disaster Readiness** — often led by YES-O, RCY, and school DRRM coordinators.
+- **Youth for Environment in Schools Organization (YES-O):**
+  - Mandated environmental club across public schools.
+  - Leads school-based solid waste segregation, tree planting, coastal cleanups along the Obando and Binuangan riverbanks, and disaster preparedness drills in coordination with Obando MENRO.
+- **School Science Investigatory Projects (SIP):**
+  - Students develop scientific investigatory projects focusing on local issues such as aquaculture water quality testing, bio-remediation of tidal canals, and mangrove ecosystem monitoring.
+  - Winners advance from the school level to the EDDIS II District Science Fair and the Bulacan Provincial Science Quest.
 
 ---
 
-## How to Join (Quick Steps)
+## 3. Scouting and Civic Service
 
-1. **Scan your school’s bulletin/FB** for club fair dates, sign-up links, or adviser contacts.
-2. **Prepare simple requirements** (school ID, parent consent form if needed).
-3. **Attend the orientation/tryouts** and take note of meeting schedules.
-4. **Commit to service hours or outputs** (e.g., events, training, competitions).
-5. **Track division-level announcements** via DepEd Lapu-Lapu for contests and training invitations.
-
----
-
-## Parent/Guardian Pointers
-
-- Ask advisers about **safety protocols**, **meeting times**, and **fees (if any)**. Many activities are free or school-supported.
-- Balance: set a weekly schedule so academics and extracurriculars both thrive.
-- Encourage roles that build **leadership and documentation** (e.g., secretary, treasurer, logistics head).
+- **Boy Scouts of the Philippines (BSP) & Girl Scouts of the Philippines (GSP):**
+  - Active scouting units in Obando Central School, Obando National High School, and community elementary schools.
+  - Activities include outdoor camping, basic first aid certification, pioneering knots, flood disaster drills, and ceremonial flag-raising details.
+- **Red Cross Youth (RCY):**
+  - School chapters trained by the Philippine Red Cross Bulacan Chapter in standard first aid, CPR basics, and blood donation advocacy.
 
 ---
 
-### Quick Links Recap
+## 4. Sports and Athletic Competitions
 
-- DepEd Lapu-Lapu Division — https://depedlapulapu.net.ph/
-- DepEd Lapu-Lapu FB — https://www.facebook.com/DepEDLLC/
-- Lapu-Lapu City e-Library news — https://www.sunstar.com.ph/cebu/lapu-lapu-city-reopens-e-library
-- YES-O overview — https://www.deped.gov.ph/2003/09/01/do-72-s-2003-establishment-of-the-youth-for-environment-in-schools-yes-organization/
-- SPG/SSG policy (PDF) — https://www.deped.gov.ph/wp-content/uploads/2014/12/DO_s2014_47.pdf
-- Red Cross Youth — https://redcross.org.ph/red-cross-youth/
-- Boy Scouts — https://scouts.gov.ph/
-- Girl Scouts — https://girlscouts.org.ph/
+Student-athletes in Obando train and compete through progressive sports tiers:
+
+1. **Intramural Meets:** Campus-wide games in basketball, volleyball, badminton, table tennis, athletics, chess, and swimming.
+2. **Obando District Athletic Meet:** Inter-school competition bringing together athletes from all Obando elementary and secondary schools.
+3. **EDDIS II Meet:** Educational Development District II competition bringing together champions from Obando, Meycauayan, Marilao, and Bocaue.
+4. **Bulacan Provincial Athletic Association Meet:** Competitions leading to the Central Luzon Regional Athletic Association (CLRAA) and the Palarong Pambansa.
+
+---
+
+## 5. Cultural, Arts, and Local Heritage Initiatives
+
+As the historic home of the revered three patron saints (San Pascual Baylon, Santa Clara de Assisi, and Nuestra Señora de Salambao) and the world-renowned fertility dance traditions, Obando schools place strong emphasis on local culture and heritage education:
+
+- **Obando Heritage & Folk Dance Ensembles:** School performing arts troupes preserve and perform the traditional _Kasilonawan_ and festival dance steps during town fiesta celebrations and provincial folk dance competitions.
+- **Campus Journalism & School Publications:** Student writers compete in news writing, editorial writing, photojournalism, and broadcasting during the annual District and Division Schools Press Conferences (DSPC).
+- **Singkaban Festival Delegations:** Obando youth represent the town in the annual Bulacan Provincial Singkaban Festival street dance and cultural arts competitions.
+
+---
+
+## Where to Inquire and Enlist
+
+- **School Level:** Contact the School Principal, Guidance Counselor, or designated Club Advisers during the first month of the academic school year.
+- **DepEd District Office:** DepEd District of Obando / Obando Central School Compound.
+- **SK Municipal Office:** Sangguniang Kabataan Federation Office, 2nd Floor, Obando Municipal Hall, Brgy. Paliwas.

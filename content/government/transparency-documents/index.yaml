@@ -1,0 +1,17 @@
+# Transparency Documents - Municipality of Obando
+layout: grid
+title: 'Public Transparency & Accountability Portal'
+description: 'Official municipal disclosure documents, citizen charters, annual budgets, and procurement records in compliance with national transparency laws.'
+
+pages:
+  - name: "Obando Citizen's Charter"
+    slug: 'citizens-charter'
+    description: "Official service standards, requirements, fees, and processing times for municipal frontline services pursuant to Republic Act 11032."
+
+  - name: 'Full Disclosure Policy (FDP) Portal'
+    slug: 'full-disclosure-policy'
+    description: 'Mandatory financial disclosures including Annual Budget, Statement of Receipts and Expenditures, 20% Component Fund, and SEF utilization.'
+
+  - name: 'Annual Executive Budget & Appropriations'
+    slug: 'annual-budget-reports'
+    description: 'Municipal general fund budget summaries, local revenue collections, and capital outlay allocations approved by the Sangguniang Bayan.'

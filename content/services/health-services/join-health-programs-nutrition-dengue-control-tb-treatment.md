@@ -1,81 +1,79 @@
-# Join Health Programs — Lapu-Lapu City (Nutrition, Dengue Control, TB Treatment)
+# Community Health Programs: Nutrition, Dengue Control, and TB Treatment in Obando
 
-Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Office (CHO)**.
-
----
-
-## 1) Nutrition Programs
-
-**What’s offered**
-
-- Supplementary feeding for day-care children.
-- Community nutrition activities such as breastfeeding promotion, growth monitoring, and health education.
-- Special events during Nutrition Month (July) and city-wide wellness programs.
-
-**Who can join**
-
-- Day-care children and families identified by barangays or CSWD.
-- Residents may also take part in open city nutrition events.
-
-**How to join**
-
-1. Visit your **Barangay Health Center** or ask the **Barangay Nutrition Scholar (BNS)** about ongoing feeding programs.
-2. Join community activities and city-wide nutrition events announced by the **City Health Office (CHO)** or City Information Office.
-
-**Cost:** Free for eligible beneficiaries.
+> Public health initiatives, community nutrition monitoring, TB-DOTS cure program, and mosquito control measures implemented by the Obando Municipal Health Office.
 
 ---
 
-## 2) Dengue Control Programs
+## Overview
 
-**What’s offered**
+The **Municipal Health Office of Obando** leads proactive community health programs to protect public health across all 11 barangays. Due to Obando's unique low-lying topography, riverine network, and frequent high-tide inundations, disease surveillance and environmental sanitation programs—especially regarding mosquito-borne illnesses, respiratory health, and pediatric nutrition—are active year-round.
 
-- Community clean-up drives under the **ABKD (Aksyon Barangay Kontra Dengue)** program.
-- Daily “4 o’clock habit” — searching and destroying mosquito breeding sites.
-- Misting, fogging, and entomological surveys led by the CHO.
-- Information campaigns during Dengue Awareness Month and rainy season.
-
-**How to join**
-
-1. Take part in barangay clean-up drives and follow the **4S strategy** (Search & Destroy, Self-protection, Seek early consultation, Support fogging/misting).
-2. Cooperate when CHO teams conduct **misting** or **house-to-house larval checks**.
-
-**Cost:** Free; no registration needed.
+Residents can access these programs free of charge through the **Obando Rural Health Unit (RHU)** in Brgy. Paliwas and their respective **Barangay Health Stations (BHS)**.
 
 ---
 
-## 3) TB Treatment (NTP TB-DOTS)
+## 1. Community Nutrition and Supplementary Feeding Programs
 
-**What’s offered**
+The Obando Municipal Nutrition Council, together with the **Barangay Nutrition Scholars (BNS)** and the Municipal Social Welfare and Development Office (MSWDO), conducts targeted nutrition interventions:
 
-- Free consultations, diagnostic tests, and full course of anti-TB medicines under the **National Tuberculosis Program (NTP)**.
-- Supervised treatment through the **Directly Observed Therapy Short-course (DOTS)** approach.
+### Key Activities:
 
-**Where**
+- **Operation Timbang Plus (OPT Plus):** Annual municipal-wide growth monitoring (weight, height, and mid-upper arm circumference) conducted across all 11 barangays for children aged 0 to 59 months to identify underweight, stunted, or wasted children.
+- **120-Day Dietary Supplementary Feeding:** Nutritious hot meals, fortified milk, and micronutrient supplementation provided to malnourished and wasted daycare children and preschool learners.
+- **First 1,000 Days Program (F1KD):** Micronutrient powders, iron-folic acid, and infant and young child feeding (IYCF) counseling for pregnant and lactating mothers to prevent stunting.
+- **Nutrition Month (July):** Cooking demonstrations for low-cost, nutritious meals utilizing local fish, vegetables, and indigenous ingredients.
 
-- Lapu-Lapu City Health Office (DOTS facility) and affiliated barangay health centers.
+### How to Avail:
 
-**How to join**
-
-1. Go to your **Barangay Health Center** or the **CHO DOTS Clinic** for TB screening.
-2. If diagnosed, you will be enrolled in DOTS — treatment and medicines are given for free.
-3. Regular follow-up visits will be scheduled to monitor your recovery.
-
-**Cost:** Free for all TB patients.
+1. Contact your **Barangay Nutrition Scholar (BNS)** or Barangay Health Worker at your local Barangay Health Station.
+2. Enroll your child in scheduled OPT Plus weigh-ins.
+3. Identified malnourished children are automatically enrolled in the barangay supplementary feeding cohort.
 
 ---
 
-## Contact & Updates
+## 2. Dengue Prevention & Vector-Borne Disease Control
 
-- **Barangay Health Centers** — First point of contact for nutrition, dengue, and TB programs.
-- **Lapu-Lapu City Health Office (CHO)** — Main office for program schedules and services.
-- **City Information Office** — Posts updates on city-wide campaigns and health events.
+Because Obando borders coastal fishponds and river canals, stagnant tidal puddles and water storage containers can become breeding sites for _Aedes aegypti_ mosquitoes. The Obando RHU implements the **Enhanced 4S Strategy against Dengue**:
+
+### The 4S Strategy:
+
+1. **Search and Destroy:** Routine house-to-house inspections and community cleanup drives ("Aksyon Barangay Kontra Dengue") every Friday to empty, scrub, or discard water-holding containers (drums, tires, plant pots, roof gutters).
+2. **Self-Protection Measures:** Wearing long-sleeved clothing, using insect repellents, and using bed nets or screens on windows.
+3. **Seek Early Consultation:** Visiting the Obando RHU or Barangay Health Station immediately if a fever lasts for more than two (2) days, rather than self-medicating.
+4. **Support Fogging / Mist Spraying:** Targeted chemical misting conducted exclusively in hotspot areas where clustering of confirmed dengue cases has been verified by the RHU epidemiology team.
+
+### Free Dengue Diagnostics at RHU:
+
+- **Dengue NS1 Antigen Rapid Diagnostic Test (RDT):** For early diagnosis (Days 1–3 of fever).
+- **Complete Blood Count (CBC) with Platelet Count:** Free daily laboratory monitoring for patients under observation at the RHU.
 
 ---
 
-### Quick Tips
+## 3. National Tuberculosis Program (TB-DOTS Clinic)
 
-- Bring a **valid ID** and your **barangay health record** (if you already have one).
-- For TB symptoms (cough for 2 weeks or more, weight loss, night sweats), seek screening immediately.
-- Join community clean-up drives and practice the 4 o’clock habit to prevent dengue.
-- Attend barangay nutrition events and feeding programs for your children’s growth and wellness.
+Tuberculosis is completely curable with continuous, supervised treatment. The **Obando RHU TB-DOTS Center** provides confidential, free diagnostic testing and medicine regimens under the National Tuberculosis Program (NTP).
+
+### Warning Signs of Active TB:
+
+- Persistent cough lasting two (2) weeks or longer.
+- Unexplained fever, especially in the late afternoons or evenings.
+- Night sweats and progressive weight loss.
+- Blood-streaked sputum (hemoptysis).
+
+### Step-by-Step TB-DOTS Treatment Protocol:
+
+1. **Screening and Sputum Collection:** The patient undergoes medical evaluation and submits two (2) sputum specimens for testing via **GeneXpert MTB/RIF** (rapid molecular testing that detects TB bacteria and rifampicin drug resistance within hours) or direct sputum smear microscopy.
+2. **Chest X-Ray Endorsement:** Provided free or with municipal assistance vouchers for qualified indigent patients.
+3. **Directly Observed Treatment (DOTS):** Upon positive confirmation, the patient is enrolled in a 6-month standardized anti-TB drug regimen (Fixed-Dose Combination tablets). A designated treatment partner (nurse, midwife, or trained barangay health worker) observes each dose ingestion to guarantee complete adherence and prevent drug resistance.
+4. **Household Contact Tracing:** Family members and close contacts, especially young children, are screened and provided with TB Preventive Treatment (TPT) if indicated.
+
+**Cost:** 100% Free diagnostic tests and anti-TB medications.
+
+---
+
+## Healthcare Coordination
+
+- **Center:** Obando Rural Health Unit (RHU Main)
+- **Address:** J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **RHU Office Line:** (02) 8332-2744
+- **MDRRMO Rescue Hotline (24/7):** (02) 8281-5816

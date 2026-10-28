@@ -1,18 +1,143 @@
-import { useTranslation } from 'react-i18next';
-import { Heading } from '../ui/Heading';
-import { Text } from '../ui/Text';
+import React, { useState } from 'react';
+import { useNavigate, Link } from 'react-router';
+import {
+  Search,
+  ArrowRight,
+  Compass,
+  Waves,
+  MapPin,
+  Sparkles,
+} from 'lucide-react';
 
 export default function Hero() {
-  const { t } = useTranslation();
+  const [searchQuery, setSearchQuery] = useState('');
+  const navigate = useNavigate();
+
+  const POPULAR_SEARCHES = [
+    {
+      label: "Mayor's & Business Permit",
+      href: '/services/business/apply-for-barangay-clearance-and-mayors-business-permits',
+    },
+    {
+      label: 'Free Vaccines & Health Center',
+      href: '/services/health-services/get-free-check-ups-basic-medicines-and-vaccines',
+    },
+    {
+      label: 'Garbage Collection Schedule',
+      href: '/services/garbage-waste-disposal/check-garbage-collection-schedules-and-request-pickup',
+    },
+    {
+      label: 'High Tide & Flood Advisory',
+      href: '/community-tools',
+    },
+    {
+      label: '11 Barangays Directory',
+      href: '/barangays',
+    },
+  ];
+
+  const handleSearchSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      navigate(`/services?q=${encodeURIComponent(searchQuery.trim())}`);
+    } else {
+      navigate('/services');
+    }
+  };
+
   return (
-    <div className="bg-gradient-to-r from-primary-600 to-primary-700 text-white py-12 md:py-24">
+    <div className="relative bg-gradient-to-br from-slate-900 via-primary-900 to-slate-900 text-white py-12 lg:py-20 border-b border-primary-800/40">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
-          {/* Left section with title and search */}
-          <div className="animate-fade-in">
-            <Text transform="uppercase">Welcome to</Text>
-            <Heading>{import.meta.env.VITE_GOVERNMENT_NAME}</Heading>
-            <Text>{t('hero.subtitle')}</Text>
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+          {/* Left Column: Civic Identity */}
+          <div className="lg:col-span-7 space-y-5 animate-fade-in">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-primary-500/10 text-primary-300 border border-primary-400/30 tracking-wider uppercase">
+              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+              Independent • Community-Built • Para sa Obando
+            </div>
+
+            <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
+              Better tools and information for a better{' '}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-accent-400 to-accent-300">
+                Obando
+              </span>
+              .
+            </h1>
+
+            <p className="text-base sm:text-lg text-slate-300 max-w-xl leading-relaxed">
+              BetterObando.gov.ph is a citizen-driven civic portal making
+              municipal services, barangay hotlines, coastal tide advisories,
+              and public records easy for everyone in Obando to find and use.
+            </p>
+
+            <div className="flex flex-wrap items-center gap-3 pt-2">
+              <Link
+                to="/services"
+                className="inline-flex items-center gap-2 bg-primary-600 hover:bg-primary-500 text-white font-medium px-5 py-2.5 rounded-lg transition-all shadow-sm"
+              >
+                <Compass className="h-4 w-4" />
+                Explore Services
+              </Link>
+              <Link
+                to="/barangays"
+                className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/15 text-white font-medium px-4 py-2.5 rounded-lg border border-white/15 transition-all text-sm"
+              >
+                <MapPin className="h-4 w-4 text-accent-400" />
+                The 11 Barangays
+              </Link>
+              <Link
+                to="/community-tools"
+                className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/15 text-white font-medium px-4 py-2.5 rounded-lg border border-white/15 transition-all text-sm"
+              >
+                <Waves className="h-4 w-4 text-primary-300" />
+                High Tide & Flood Watch
+              </Link>
+            </div>
+          </div>
+
+          {/* Right Column: Search & Quick Access Card */}
+          <div className="lg:col-span-5">
+            <div className="bg-white rounded-2xl p-6 sm:p-7 shadow-2xl border border-gray-100 text-gray-900">
+              <div className="flex items-center gap-2 text-primary-700 font-semibold text-sm mb-3">
+                <Search className="h-4 w-4 text-primary-600" />
+                <span>Find an Obando Government Service</span>
+              </div>
+
+              <form onSubmit={handleSearchSubmit} className="relative mb-5">
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={e => setSearchQuery(e.target.value)}
+                  placeholder="e.g., Business permit, health center, garbage..."
+                  className="w-full pl-4 pr-12 py-3 bg-gray-50 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-primary-600 focus:bg-white text-gray-900"
+                />
+                <button
+                  type="submit"
+                  aria-label="Search"
+                  className="absolute right-1.5 top-1/2 -translate-y-1/2 p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
+                >
+                  <ArrowRight className="h-4 w-4" />
+                </button>
+              </form>
+
+              <div>
+                <p className="text-xs font-bold text-gray-500 mb-2 uppercase tracking-wider flex items-center gap-1.5">
+                  <Sparkles className="h-3 w-3 text-accent-500" /> Frequently
+                  Needed Services:
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {POPULAR_SEARCHES.map(item => (
+                    <Link
+                      key={item.label}
+                      to={item.href}
+                      className="text-xs font-medium px-3 py-1.5 bg-primary-50 text-primary-700 rounded-lg hover:bg-primary-100 hover:text-primary-800 transition-colors border border-primary-100"
+                    >
+                      {item.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

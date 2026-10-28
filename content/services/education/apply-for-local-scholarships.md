@@ -1,112 +1,87 @@
-# Apply for Local Scholarships — Lapu-Lapu City
+# Apply for Local Scholarships and Educational Financial Assistance in Obando
 
-Use this guide to find **City/LGU**, **Congressional/partner**, **local college**, and **national** scholarship options you can apply for while based in **Lapu-Lapu City**.
-
----
-
-## 1) City/LGU Scholarship Programs
-
-| Program                                           | Who it’s for                                                                                           | What it covers\*                                                          | Where to apply                  | Notes                                                                                                                                                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City Government College Scholarship** | Lapu-Lapu City residents (typically Senior High / incoming college; priority to low-income households) | Tuition/fees or full scholarship, depending on intake and partner schools | City Hall / posted online calls | The city has historically opened slots for poor residents and tied these to local HEIs during certain intakes. Check latest calls from City Hall / Office of the Mayor. :contentReference[oaicite:0]{index=0} |
-
-\*Coverage varies by year/partner school; always verify the current announcement.
-
-**How to apply (typical flow)**
-
-1. Watch for the **official call for applications** from the **Lapu-Lapu City Government** (FB/website or City Information Office). :contentReference[oaicite:1]{index=1}
-2. Prepare documents (see **Common Requirements** below).
-3. Submit your application at the designated **LGU window/online form** and attend evaluation/orientation if shortlisted.
+> Complete guide on the Obando Municipal Scholarship Program, Bulacan Provincial Scholarships, CHED programs, and financial grants for Obando students.
 
 ---
 
-## 2) Congressional / Partner Scholarship Slots
+## Overview
 
-| Program                                                                                       | Who it’s for                                   | What it covers                                          | Where to apply                                                                   | Notes                                                                                                                |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Mayor Junard “Ahong” Chan & First Lady Ma. Cynthia King-Chan Scholarship** (periodic calls) | City residents, course/partner-school specific | Tuition assistance/full scholarship depending on cohort | Calls posted by the **Office of the Mayor** / **Office of Rep. Cindi King-Chan** | Look for official FB announcements with the **requirements and deadlines**. :contentReference[oaicite:2]{index=2}    |
-| **International/partner school opportunities**                                                | Senior High/college grads                      | Tuition discounts/scholarships via MOUs                 | Via partner school announcements & City coordination                             | Example: Taiwan partner university opportunities highlighted by city partners. :contentReference[oaicite:3]{index=3} |
+Pursuing higher education is a vital pathway for economic mobility for families in the Municipality of Obando. Several local, provincial, and national scholarship programs are open to graduating senior high school students, college undergraduates, and technical-vocational trainees who reside in Obando, Bulacan.
 
----
-
-## 3) Local Colleges & Their In-House Scholarships
-
-| School                                         | Scholarship page/info                                                        | Notes                                                                                                                                 |
-| ---------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City College (LLCC)**              | School site lists contacts; ask registrar/scholarship desk for current slots | City college; scholarship rules and timing set per semester. :contentReference[oaicite:4]{index=4}                                    |
-| **University of Cebu** (Mactan/Main system)    | Public scholarship lists & requirements                                      | UC posts scholarship requirements (e.g., academic honors, docs). Availability varies by campus. :contentReference[oaicite:5]{index=5} |
-| **LCIC (Lapulapu-Cebu International College)** | Scholarship page with program specifics                                      | Has its own discounts/scholarships; separate from LGU. :contentReference[oaicite:6]{index=6}                                          |
-
-> Tip: Even if you’re targeting an **LGU scholarship**, apply to your target school’s **in-house scholarship** too. Slots stack or complement depending on rules.
+This guide details eligibility rules, application schedules, documentary requirements, and where to submit applications.
 
 ---
 
-## 4) National Programs You Can Apply For While Based in Lapu-Lapu
+## 1. Obando Municipal Educational Assistance / Mayor's Scholarship Program
 
-| Program                                                             | Who it’s for                                                  | Typical coverage                                          | Where to file                                                                                                               |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **CHED Merit Scholarship (CMSP)**                                   | Incoming/continuing college with merit + income criteria      | Stipend + book/tuition assistance (per CHED rules)        | CHED’s official calls/portals (watch national page) :contentReference[oaicite:7]{index=7}                                   |
-| **OWWA EDSP/ODSP** (for OFW dependents)                             | Qualified dependents of active OWWA members                   | EDSP up to ₱60k/yr; ODSP up to ₱20k/yr (amounts per call) | OWWA Scholarship portal; local **PESO Lapu-Lapu** often posts the call window :contentReference[oaicite:8]{index=8}         |
-| **Cebu Province scholarships** (if eligible as provincial resident) | Cebu Province residents (check city/province residency rules) | Tuition/stipend per program                               | Province announcements; verify residency eligibility vs. highly urbanized city status :contentReference[oaicite:9]{index=9} |
+The Municipal Government of Obando provides direct financial grants per semester to qualified, low-income college students enrolled in state universities, local colleges, or accredited private tertiary institutions.
 
----
+### Who is Eligible:
 
-## Common Requirements (have these ready)
+- Bona fide resident of Obando, Bulacan (proven by Barangay Certificate and Voter's Certification of parent/guardian).
+- Currently enrolled in an undergraduate degree (bachelor's) or 2-year technical-vocational program.
+- Minimum General Weighted Average (GWA) of 83% or 2.25 equivalent, with no failing grades or unexcused dropped subjects.
+- Family combined gross annual income within the low-income threshold (priority given to indigent families, solo parents, PWD dependents, and fisherfolk households).
 
-- **Proof of residency** (Barangay Certificate)
-- **Birth certificate** (PSA)
-- **Report card/grades** (JHS/SHS/college)
-- **Good moral certificate** (from school)
-- **Income documents** (parents’ ITR/Certificate of Non-Filing/indigency, depending on program)
-- **Photos/ID** (2×2 or passport size)
-- **Admission/Enrollment proof** (if already admitted)
+### Financial Grant:
 
-(Exact lists vary per program; always follow the posted checklist.)
+- Cash grant per semester deposited directly to student accounts or released via payroll check at the Obando Municipal Hall.
+- Renewed on a semestral basis upon submission of passing grades and certificate of matriculation.
 
----
+### Required Documents:
 
-## Step-by-Step: How to Apply
+1. Duly accomplished **Obando Municipal Scholarship Application Form**.
+2. **Certificate of Registration / Enrollment (COR)** for the current semester showing course load and units.
+3. Official **Transcript of Records (TOR)** or true copy of grades from the previous semester signed by the school registrar.
+4. **Certificate of Indigency** or Certificate of Low Income issued by the applicant's Barangay Hall.
+5. Parents' **BIR Income Tax Return (ITR)**, Certificate of Tax Exemption, or BIR Certificate of Non-Filing.
+6. Copy of student's valid school ID and government-issued ID.
 
-1. **Pick your target programs**
-   - City/LGU scholarship (watch City Hall channels), school-based scholarship, and at least one national program.
+### Where to File:
 
-2. **Check the current call**
-   - Read the **eligibility, coverage, and deadline**. Save the announcement.
-
-3. **Assemble documents**
-   - Use the checklist above; request certificates early (Barangay, School Registrar, BIR/Barangay for income).
-
-4. **Submit**
-   - Follow the **specified portal or window**. Keep digital scans (PDF) for online filing.
-
-5. **Monitor & attend screening**
-   - Answer calls/emails, attend orientation/interviews, and **sign the scholarship agreement** if accepted.
-
-6. **Comply every term**
-   - Maintain the **required GWA**, submit grade reports on time, and **renew** each semester/year.
+- **Office:** Scholarship Committee / Office of the Municipal Mayor
+- **Location:** 2nd Floor, Obando Municipal Hall, Brgy. Paliwas, Obando, Bulacan
+- **Application Windows:** Typically opens in July-August (for 1st Semester) and December-January (for 2nd Semester).
 
 ---
 
-## Where to Watch for Announcements
+## 2. Bulacan Provincial Scholarship Program (Panlalawigang Iskolar)
 
-- LCIC’s website → “Scholarship” section
-- University of Cebu’s “Scholarship & Study Grants” page
-- DepEd Lapu-Lapu City’s official site / memorandums
-- City Government announcements (City Hall / Information Office)
+The Provincial Government of Bulacan (Kapitolyo ng Bulacan) offers scholarship grants accessible to qualified students residing across all Bulacan municipalities, including Obando:
 
----
-
-### Example Applications Available Now
-
-- [LCIC Scholarship Page](https://lcic.edu.ph/scholarship.html)
-- [UC Scholarships & Study Grants](https://www.universityofcebu.net/p/scholarship.html)
-- [DOST-SEI S&T Scholarship (Grade 12 applicants)](https://depedlapulapu.net.ph/download/dm-no-723-s-2024-2025-dost-sei-s-t-undergraduate-scholarship-applications-for-grade-12-senior-high-school-students/)
-- [English Access Program (DepEd Lapu-Lapu)](https://depedlapulapu.net.ph/download/dm-no-064-s-2025-english-access-scholarship-program/)
+- **Tulong Pang-Edukasyon para sa Bulakenyo:** Merit-based and academic excellence scholarships.
+- **Specialized Grants:** For children of small farmers, fisherfolk, and barangay frontliners.
+- **Application Portal:** Announced through the Provincial Scholarship Office (Malolos Capitol) and local municipal scholarship desks.
 
 ---
 
-### Reminders
+## 3. Bulacan State University (BulSU) & Public Tertiary Institutions
 
-- **Deadlines change every cycle.** Always follow the **current** call post.
-- **Coverage differs by program & year.** Read the fine print (tuition vs. full).
-- **Apply to multiple programs** to improve your chances and coverage.
+Obando graduates frequently enroll in nearby tuition-free state universities and local government colleges covered by Republic Act 10931 (Universal Access to Quality Tertiary Education Act):
+
+- **Bulacan State University (BulSU):** Campuses in Malolos (Main), Meneses (Bulakan), and Hagonoy.
+- **Bulacan Agricultural State College (BASC):** San Ildefonso, Bulacan.
+- **Polytechnic University of the Philippines (PUP):** Santa Maria Campus.
+- **Valenzuela City Polytechnic College / Pamantasan ng Lungsod ng Valenzuela (PLV):** Accessible to nearby border communities under specific cross-enrollment agreements.
+
+Under RA 10931, tuition and standard miscellaneous fees in state universities and accredited local colleges are completely free for qualified Filipino undergraduate students.
+
+---
+
+## 4. National Scholarship Programs
+
+| Program                                     | Granting Agency                                           | Who Can Apply                                                           | Coverage                                                                      |
+| ------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **CHED Tulong Dunong Program (TDP)**        | Commission on Higher Education (CHED Regional Office III) | College students with passing marks belonging to low-income households  | Semestral stipend to assist with book and living allowances                   |
+| **CHED Merit Scholarship Program (CMSP)**   | CHED                                                      | Top-ranking graduating senior high school students                      | Full or partial tuition and monthly allowance                                 |
+| **OWWA EDSP / ODSP**                        | Overseas Workers Welfare Administration                   | Dependents of active OWWA OFW members                                   | Annual educational financial assistance                                       |
+| **DOST-SEI S&T Undergraduate Scholarships** | Department of Science and Technology                      | Graduating senior high students pursuing approved STEM priority courses | Tuition subsidy, monthly living allowance, book allowance, and thesis support |
+
+---
+
+## Frontline Contact and Inquiries
+
+- **Office:** Obando Municipal Scholarship Desk / Office of the Mayor
+- **Location:** Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **Service Hours:** Monday to Friday, 8:00 AM – 5:00 PM
+- **Municipal Helpdesk:** (02) 8292-2043

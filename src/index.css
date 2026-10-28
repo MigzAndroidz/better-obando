@@ -5,19 +5,69 @@
 @source '../node_modules/@bettergov/kapwa/dist';
 @import '@bettergov/kapwa/styles';
 
+:root {
+  /* Option 1: River & Mangrove (Default Obando Theme) */
+  --theme-primary-50: #eef8fa;
+  --theme-primary-100: #d4eef3;
+  --theme-primary-200: #aee0e9;
+  --theme-primary-300: #78c7d6;
+  --theme-primary-400: #3ca8be;
+  --theme-primary-500: #026c80;
+  --theme-primary-600: #025769;
+  --theme-primary-700: #024756;
+  --theme-primary-800: #063b47;
+  --theme-primary-900: #08323c;
+
+  --theme-accent-50: #fef9ee;
+  --theme-accent-100: #fdf0d2;
+  --theme-accent-200: #fbe0a4;
+  --theme-accent-300: #f7ca6d;
+  --theme-accent-400: #f2ab36;
+  --theme-accent-500: #e69b00;
+  --theme-accent-600: #c97b00;
+  --theme-accent-700: #9f5803;
+  --theme-accent-800: #82450a;
+  --theme-accent-900: #6c3a0d;
+}
+
+[data-palette='heritage'] {
+  /* Option 2: Fiesta & Heritage */
+  --theme-primary-50: #faebeb;
+  --theme-primary-100: #f4d1d1;
+  --theme-primary-200: #e9a8a8;
+  --theme-primary-300: #d97474;
+  --theme-primary-400: #c34141;
+  --theme-primary-500: #800000;
+  --theme-primary-600: #700000;
+  --theme-primary-700: #5d0000;
+  --theme-primary-800: #4d0303;
+  --theme-primary-900: #420707;
+
+  --theme-accent-50: #fbf9ee;
+  --theme-accent-100: #f6f0d4;
+  --theme-accent-200: #eddfaa;
+  --theme-accent-300: #e2c976;
+  --theme-accent-400: #d8b348;
+  --theme-accent-500: #d4af37;
+  --theme-accent-600: #b58c27;
+  --theme-accent-700: #906721;
+  --theme-accent-800: #775320;
+  --theme-accent-900: #65451f;
+}
+
 @theme {
   --font-serif: Georgia, 'Times New Roman', serif;
 
-  --color-primary-50: #e6f0fd;
-  --color-primary-100: #cce0fb;
-  --color-primary-200: #99c2f7;
-  --color-primary-300: #66a3f3;
-  --color-primary-400: #3385ef;
-  --color-primary-500: #0066eb;
-  --color-primary-600: #0052bc;
-  --color-primary-700: #003d8d;
-  --color-primary-800: #00295e;
-  --color-primary-900: #00142f;
+  --color-primary-50: var(--theme-primary-50);
+  --color-primary-100: var(--theme-primary-100);
+  --color-primary-200: var(--theme-primary-200);
+  --color-primary-300: var(--theme-primary-300);
+  --color-primary-400: var(--theme-primary-400);
+  --color-primary-500: var(--theme-primary-500);
+  --color-primary-600: var(--theme-primary-600);
+  --color-primary-700: var(--theme-primary-700);
+  --color-primary-800: var(--theme-primary-800);
+  --color-primary-900: var(--theme-primary-900);
 
   --color-secondary-50: #ffede6;
   --color-secondary-100: #ffdbcc;
@@ -30,16 +80,16 @@
   --color-secondary-800: #661f00;
   --color-secondary-900: #330f00;
 
-  --color-accent-50: #fef3e6;
-  --color-accent-100: #fde7cc;
-  --color-accent-200: #fbd099;
-  --color-accent-300: #f9b866;
-  --color-accent-400: #f7a133;
-  --color-accent-500: #f58900;
-  --color-accent-600: #c46e00;
-  --color-accent-700: #935200;
-  --color-accent-800: #623700;
-  --color-accent-900: #311b00;
+  --color-accent-50: var(--theme-accent-50);
+  --color-accent-100: var(--theme-accent-100);
+  --color-accent-200: var(--theme-accent-200);
+  --color-accent-300: var(--theme-accent-300);
+  --color-accent-400: var(--theme-accent-400);
+  --color-accent-500: var(--theme-accent-500);
+  --color-accent-600: var(--theme-accent-600);
+  --color-accent-700: var(--theme-accent-700);
+  --color-accent-800: var(--theme-accent-800);
+  --color-accent-900: var(--theme-accent-900);
 
   --color-success-50: #e6f7ef;
   --color-success-100: #ccefdf;

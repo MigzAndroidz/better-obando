@@ -1,132 +1,96 @@
-# Renew Permits and Pay Local Business Taxes — Lapu-Lapu City
+# Renew Permits and Pay Local Business Taxes in Obando
 
-Use this guide to renew your **Mayor’s/Business Permit** and **Local Business Taxes (LBT)** with the City Government.
-
----
-
-## Who Must Renew
-
-- All businesses operating in Lapu-Lapu City: **sole proprietors, partnerships, corporations, NGOs, cooperatives, online sellers with local presence**, and professionals with a business office.
-- Renewal applies to **main office and each branch**.
+> Complete guide on annual business permit renewal, gross sales declarations, and local tax schedules in the Municipality of Obando, Bulacan.
 
 ---
 
-## When to Renew
+## Overview
 
-- **Annual renewal period:** **First 20 days of January** (as provided in the Local Government Code).
-- **Payments:** either **annually** or **quarterly** (1st qtr due during renewal; next quarters usually due on or before the **20th** day of April, July, and October).
-- Late filings incur **surcharges and interest**.
+In accordance with Section 167 of Republic Act 7160 (The Local Government Code of 1991) and the Municipal Revenue Code of Obando, all registered business establishments must renew their **Mayor's Business Permit** and pay their **Local Business Taxes (LBT)** on or before **January 20** of every calendar year.
 
-> Tip: Prepare your documents **by December** so you can file in the first week of January.
+The Municipality of Obando activates the **Business One-Stop Shop (BOSS)** during the entire month of January at the Municipal Hall in Brgy. Paliwas to provide an integrated renewal process bringing together the BPLO, Municipal Treasury, Engineering Office, Sanitary Health Office, MENRO, and the Bureau of Fire Protection (BFP).
 
 ---
 
-## What You’ll Need (Typical Requirements)
+## Who Needs to Renew
 
-**Business Information**
-
-- Prior year **Mayor’s/Business Permit** and **Official Receipts**.
-- **DTI/SEC/CDA** registration (whichever applies).
-- **BIR** Certificate of Registration (Form 2303) and **Authority to Print** (if any).
-- **Contract of Lease** / **Tax Declaration** / **Certificate of Occupancy** (as applicable).
-- **Valid IDs** of owner or authorized representative (+ **SPA** or Board Resolution if not the owner).
-
-**Revenue/Tax Basis**
-
-- **Sworn Declaration of Gross Sales/Receipts** for the **preceding year** (or **Audited FS**/**Accountant-certified** FS if applicable).
-- **Inventory list** (selected industries) and **machine/equipment list** (if applicable).
-
-**Regulatory Clearances** (city/BPLO may route you during assessment)
-
-- **Barangay Clearance** (for business).
-- **Sanitary Permit** (Health).
-- **Fire Safety Inspection Certificate (FSIC)** (BFP).
-- **Environmental/Disposal Permits** (if required by the nature of business).
-- **Zoning/Occupancy** updates if there were renovations or transfers.
-
-> Note: Actual required clearances vary by business **nature, size, and risk category**. Bring your **previous permits** to guide the checker.
+- All commercial, industrial, service, and retail enterprises operating within Obando.
+- Aquaculture operators, fishpond leaseholders, and seafood dealer depots.
+- Market stallholders in the Obando Public Market.
+- Professionals and corporate entities with physical offices, yards, or branches located in any of Obando's 11 barangays.
 
 ---
 
-## Step-by-Step (Walk-In)
+## Renewal Schedule & Payment Schemes
 
-1. **Pre-screening / Queuing**
-   - Go to the **Business One-Stop Shop (BOSS)** during the renewal period.
-   - Get your queue number; submit last year’s permit and basic IDs for pre-check.
+### Annual Filing Deadline:
 
-2. **Application & Declaration**
-   - Fill out the **Business Renewal Form** and the **Sworn Declaration of Gross Sales/Receipts**.
-   - Declare any **changes** (business name, nature, capitalization, number of employees, floor area, machinery, location).
+- **January 1 to January 20:** Regular filing period without penalties.
+- _Note:_ The Sangguniang Bayan of Obando may pass an ordinance extending the deadline under special circumstances, but business owners are strongly advised to file early to prevent congestion.
 
-3. **Regulatory Routing**
-   - The evaluator will route you (if needed) to: **Barangay**, **Sanitary/Health**, **Zoning**, **Environmental**, and **BFP** for assessment/inspection.
+### Payment Terms:
 
-4. **Assessment**
-   - **BPLO** computes **Local Business Tax**, **Regulatory Fees**, and **Other Charges** (signage, garbage, sanitary, etc.).
-   - Choose **Annual** or **Quarterly** payment.
+1. **Full Annual Payment:** Settle total assessed taxes and regulatory fees for the entire calendar year upon renewal. (May qualify for prompt payment discounts if provided by current municipal tax ordinance).
+2. **Quarterly Installments:** Local Business Tax may be paid in four equal quarterly installments:
+   - **1st Quarter:** Due on or before January 20
+   - **2nd Quarter:** Due on or before April 20
+   - **3rd Quarter:** Due on or before July 20
+   - **4th Quarter:** Due on or before October 20
+     _(Note: Regulatory fees such as Garbage, Sanitary, and Mayor's Permit fees must be paid in full during the initial renewal)._
 
-5. **Payment**
-   - Pay at the **City Treasurer’s** cashier or accredited payment options (if available).
-   - Receive **Official Receipt(s)**.
+### Penalties for Late Renewal:
 
-6. **Releasing**
-   - Claim your **Mayor’s/Business Permit**, **FSIC/Sanitary**, **Stickers/Plates**, and **Occupational permits** (if issued with the pack).
-   - Post the permit and required notices **conspicuously** at your place of business.
+- A surcharge of **twenty-five percent (25%)** of the amount of taxes, fees, or charges not paid on time.
+- An interest rate of **two percent (2%) per month** on the unpaid amount from the date the tax was due until paid (up to a maximum of 36 months).
 
 ---
 
-## (If Available) Online / Hybrid Filing
+## Documentary Requirements for Renewal
 
-- Some transactions may be done via the city’s **online business portal** or **pre-assessment** channels (if announced).
-- Prepare **scanned PDFs** of your documents (clear, legible; 1 file per requirement).
-- After online assessment, proceed to **payment** (e-payment or onsite) and **permit releasing** per instructions.
+Prepare original and photocopy copies of the following documents:
 
-> If unsure, confirm at the start of the renewal period if **online pre-filing** is open for your business type.
-
----
-
-## How Your Dues Are Computed
-
-- **Local Business Tax (LBT):** Based on **gross sales/receipts** of the prior year and your **business category** (rates and brackets per local tax ordinance).
-- **Regulatory/Service Fees:** e.g., **Sanitary**, **Zoning**, **Garbage**, **Signage**, **Occupational**, and **Fire** fees/clearances.
-- **Other Assessments:** May apply for **delivery vehicles**, **storage/stockrooms**, **machinery**, or **special permits**.
+- [ ] **Previous Year's Mayor's Business Permit** and official receipts of tax payments.
+- [ ] **Current Year Barangay Business Clearance** issued by the host barangay where the business is situated.
+- [ ] **Sworn Statement of Gross Sales or Receipts** for the preceding calendar year:
+  - For sole proprietors: Copy of BIR Form 1701Q / 1701 or audited financial statement, supported by BIR monthly/quarterly returns.
+  - For corporations: Audited Financial Statements (AFS) stamped received by the BIR and SEC, plus VAT / Percentage Tax returns.
+- [ ] **Community Tax Certificate (Cedula / CTC)** for the current year (individual for owner, and corporate cedula for corporations) issued by the Obando Municipal Treasury.
+- [ ] **Sanitary Permit Application & Health Cards** for all food handlers, service crew, and employees (issued by Obando RHU).
+- [ ] **Contract of Lease** (if renting), including proof of lessor's updated real property tax payment.
+- [ ] **Comprehensive General Liability Insurance (CGLI)** (for high-risk businesses, entertainment venues, or fuel stations, if mandated by municipal ordinance).
 
 ---
 
-## Penalties for Late Renewal
+## Step-by-Step BOSS Renewal Process
 
-- **Surcharge** (commonly up to **25%** of the tax due) **plus** **monthly interest** (commonly up to **2% per month**) until fully paid, subject to the city’s ordinance caps.
-- Possible **closure/tagging** and **inspection findings** if you continue operations without a valid permit.
+```
+[Step 1: Pre-Screening]
+Submit prior permit & requirements to BPLO desk for document verification.
+       ↓
+[Step 2: Regulatory Routing]
+Joint clearance sign-offs:
+ • Obando RHU (Sanitary & Health Cards)
+ • MENRO (Solid Waste / Environmental Compliance)
+ • MPDO / Engineering (Zoning / Locational inspection)
+ • BFP Obando (Fire Safety Inspection Certificate / FSIC)
+       ↓
+[Step 3: Tax Assessment]
+BPLO and Municipal Treasury compute Local Business Tax (LBT) based on declared gross sales.
+An Electronic Tax Order of Payment (TOP) is issued.
+       ↓
+[Step 4: Treasury Payment]
+Present TOP and pay at the Municipal Treasury Cashier counter. Receive Official Receipts (ORs).
+       ↓
+[Step 5: Releasing]
+Present Official Receipts to BPLO Releasing Counter.
+Receive new Mayor's Business Permit, Municipal Business Plate Sticker, and Sanitary Permit.
+```
 
 ---
 
-## Changes You Must Report
+## Frontline Office Information
 
-- **Change of address**, **trade/brand name**, **ownership structure**, **business activity**, **floor area**, **machinery**, or **employee count**.
-- **Temporary closure** or **permanent cessation**:
-  - File a **Business Retirement** to stop tax accruals.
-  - Submit **inventory and last day of operation**, settle any **delinquencies**, and surrender old permits/plates.
-
----
-
-## Practical Tips
-
-- **Bring copies** of everything (and soft copies on a USB/phone).
-- If you had **renovations** or **new equipment**, bring **permits/invoices**—it speeds up Zoning/BFP review.
-- **Coordinate early** with your **lessor** for building-related documents (occupancy, fire compliance).
-- For **food/health businesses**, schedule **Sanitary inspections** early; ensure staff have updated **health cards** if required.
-- Keep a **renewal calendar**: Q2/Q3/Q4 due dates if you chose quarterly.
-
----
-
-## Quick Checklist (Print This)
-
-- [ ] Last year’s **Mayor’s/Business Permit** and **ORs**
-- [ ] **DTI/SEC/CDA** registration & **BIR 2303**
-- [ ] **Lease/Occupancy**/Tax Declaration (as applicable)
-- [ ] **Sworn Gross Sales/Receipts** (prev. year) / **FS**
-- [ ] **Barangay Clearance** (business)
-- [ ] **Sanitary** & **FSIC** (and other routed clearances)
-- [ ] **Valid ID** / **SPA or Board Resolution** for representative
-- [ ] Payment (cash/card) for **taxes & fees**
-- [ ] Collect **Permit**, **Stickers/Plates**, post on site
+- **Office:** Business Permits and Licensing Office (BPLO) / Municipal Treasury
+- **Location:** Ground Floor, Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **Service Hours:** Monday to Friday, 8:00 AM – 5:00 PM (Continuous service during January BOSS)
+- **General Inquiries:** (02) 8292-2043 (Municipal Hall Administration)

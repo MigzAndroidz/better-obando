@@ -1,74 +1,74 @@
-# Check Garbage Collection Schedules and Request Pickup — Lapu-Lapu City
+# Check Garbage Collection Schedules and Request Pickup in Obando
 
-The City Government of Lapu-Lapu manages **regular garbage collection** through the **City Environment and Natural Resources Office (CENRO)** and barangays. Residents and business owners are encouraged to follow the schedule and proper segregation rules.
-
----
-
-## 1) Regular Garbage Collection
-
-**How it works**
-
-- Collection schedules vary **by barangay** (usually **every other day** or **3 times per week**).
-- Trucks assigned to barangays cover **household waste**, **biodegradable**, and **residual/non-recyclable** garbage.
-- Segregation at source is **mandatory** — separate biodegradable, recyclable, residual, and special/hazardous waste.
-
-**Where to check schedules**
-
-1. **Barangay Hall** — each barangay posts its official collection schedule.
-2. **Barangay Facebook Pages** — most update residents when trucks are delayed or rescheduled.
-3. **City Information Office (CIO)** or **CENRO** announcements for citywide advisories (e.g., during holidays or typhoon disruptions).
-
-> Tip: Post the collection calendar on your fridge or gate to remind the household which days to take bins out.
+> Collection routes, truck schedules, coastal barangay barge operations, and bulk waste disposal guidelines managed by the Obando Municipal Environment and Natural Resources Office (MENRO).
 
 ---
 
-## 2) Special Garbage Pickup (Bulk or Non-Routine Waste)
+## Overview
 
-For **bulk waste** (e.g., furniture, appliances, construction debris, yard trimmings), collection is not part of the regular schedule.
+The **Municipal Environment and Natural Resources Office (MENRO)** of Obando oversees the municipal-wide ecological solid waste management program in compliance with Republic Act 9003 (Ecological Solid Waste Management Act of 2000) and the Obando Municipal Solid Waste Management Ordinance.
 
-**How to request**
-
-1. Visit your **Barangay Hall** or contact the **Barangay Environment Committee**.
-2. Provide details: type of waste, estimated volume, and address.
-3. Barangay coordinates with **CENRO** for scheduling a **special truck pickup**.
-4. Some barangays may require a **minimal fee** for bulk or special disposal.
-
-**Items usually needing special pickup**
-
-- Large furniture, mattresses, appliances, e-waste
-- Construction/demolition debris
-- Hazardous household waste (paints, chemicals, batteries)
+Because of Obando's unique geography—comprising both mainland road networks (Paliwas, Panghulo, Catanghalan, Paco, Lawa, San Pascual, Tawiran, Hulo, Pag-asa) and coastal island/fishpond communities accessible primarily by waterways (Binuangan and Salambao)—waste collection employs both **compactor dump trucks** for road corridors and **watercraft collection barges** for river and coastal reach.
 
 ---
 
-## 3) Contact Information
+## 1. Routine Residential Garbage Collection
 
-- **City Environment and Natural Resources Office (CENRO)**  
-  Lapu-Lapu City Hall, Government Complex, Brgy. Pajo  
-  Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)  
-  Updates: via **City Information Office** FB page
+### Collection Frequency:
 
-- **Barangay Halls** — each barangay has an Environment/ Solid Waste desk for local schedules and pickup requests.
+- Waste collection operates on designated days per barangay, typically **two to three times a week** for residual and biodegradable waste.
+- Collection hours start early at **6:00 AM** to prevent traffic congestion along J.P. Rizal St. and the main municipal thoroughfares.
 
----
+### Mandatory Segregation Rule:
 
-## 4) Quick Tips for Residents
+- **"No Segregation, No Collection" Policy:** Solid waste must be strictly sorted at source. Unsegregated, mixed trash bags will **NOT** be loaded by municipal garbage collectors.
+- Trash must only be brought out to the designated roadside curb or barangay collection post **on the scheduled morning of collection** to prevent stray dogs, cats, or high-tide floodwaters from scattering garbage into drainage canals.
 
-- Put garbage out **only on collection day**, early morning or night before.
-- Use durable, closed containers to prevent animal scattering.
-- For recyclables, check if your barangay has a **Materials Recovery Facility (MRF)** or partner junkshop.
-- During **rainy season/typhoons**, expect **schedule adjustments** — follow CIO or barangay announcements.
-- Avoid burning waste (strictly prohibited under RA 9003 / Clean Air Act).
+### Schedule by Cluster:
 
----
+| Cluster                                    | Barangays Covered                      | Primary Days                                                                | Route / Type                              |
+| ------------------------------------------ | -------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
+| **Cluster A (Poblacion & Central)**        | Paliwas, Pag-asa, San Pascual, Tawiran | Monday, Wednesday, Friday (Morning)                                         | Compactor Truck curb collection           |
+| **Cluster B (Southern & East Corridor)**   | Panghulo, Catanghalan, Hulo            | Tuesday, Thursday, Saturday (Morning)                                       | Compactor Truck curb collection           |
+| **Cluster C (Northern Corridor)**          | Lawa, Paco                             | Monday, Wednesday, Friday (Morning)                                         | Compactor Truck & mini dump truck         |
+| **Cluster D (Coastal & Island Barangays)** | Binuangan, Salambao                    | Scheduled weekly barge runs (typically Tuesdays & Fridays, tide-permitting) | Riverbank landing stage & boat collection |
 
-## 5) Businesses & Establishments
-
-- Businesses must comply with **segregation** and may need to contract **accredited private haulers** for bulk/industrial waste.
-- Keep proof of disposal (receipts/hauling contracts) for compliance inspections by CENRO.
+_(Note: Schedules may shift slightly during severe typhoons, storm surges, or extreme high-tide inundations. Updates are broadcast via barangay public address systems and official municipal bulletins)._
 
 ---
 
-### Key Reminder
+## 2. Special Bulk Waste Pickup (Furniture, Tree Branches, Appliances)
 
-Following your barangay’s **garbage collection schedule** and properly requesting **special pickups** keeps the city clean and prevents flooding, pests, and health risks.
+Large items cannot be processed by standard compactor trucks and must not be abandoned along municipal roads or dikes.
+
+### Items Requiring Special Pickup:
+
+- Large wooden furniture, mattresses, bed frames, sofas.
+- Tree trunks, heavy branches, and extensive garden clippings after typhoon pruning.
+- Large scrap metal, disassembled cabinets, and non-commercial construction debris.
+
+### How to Request Special Pickup:
+
+1. Visit or call your local **Barangay Hall** or the **MENRO Office** at the Obando Municipal Hall.
+2. Provide your name, contact number, exact location, description of bulk items, and estimated volume.
+3. MENRO or the barangay solid waste committee schedules an open mini-dump truck to haul the bulk items to the municipal staging transfer facility.
+4. Nominal tipping/hauling fees may apply depending on volume, payable to the Municipal Treasury.
+
+---
+
+## 3. Materials Recovery Facilities (MRFs)
+
+Each of the 11 barangays in Obando operates a **Barangay Materials Recovery Facility (MRF)** or designated eco-station:
+
+- Residents can drop off sorted recyclables (corrugated cardboard, clean PET plastic bottles, tin cans, glass bottles, scrap metals) directly at their Barangay MRF.
+- Biodegradable kitchen waste and market fish trimmings are directed to community composting or processed for aquaculture fertilizer where feasible.
+
+---
+
+## Contact Information and Service Requests
+
+- **Office:** Municipal Environment and Natural Resources Office (MENRO)
+- **Location:** Ground Floor, Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **Office Hours:** Monday to Friday, 8:00 AM – 5:00 PM
+- **Municipal Helpdesk:** (02) 8292-2043
+- **Emergency Flood & Waste Obstruction Hotline:** Obando MDRRMO (02) 8281-5816

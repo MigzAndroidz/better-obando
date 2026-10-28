@@ -1,65 +1,108 @@
-# How to Set Up a Business Partnership
+# How to Apply for Barangay Business Clearance and Mayor's Business Permit in Obando
 
-## Step 1: Register with SEC
+> Complete step-by-step citizen guide for registering a new business or commercial activity in the Municipality of Obando, Bulacan.
 
-**Prepare documents:**
+---
 
-- Partnership name (check via [SEC eSPARC](https://espac.sec.gov.ph/))
-- Notarized Articles of Partnership
-- IDs/TINs of partners, office address, capital structure
+## Overview
 
-**File online** through [SEC eSPARC](https://espac.sec.gov.ph/) and pay fees.
+All commercial enterprises, retail stores, food establishments, aquaculture operations, and service providers operating within the territorial jurisdiction of the **Municipality of Obando, Bulacan** are required by Republic Act 7160 (The Local Government Code) and the Obando Municipal Revenue Code to secure a valid **Barangay Business Clearance** and **Mayor's Business Permit** before commencing commercial operations.
 
-**Output:** SEC Certificate of Recording + Approved Business Name
+Frontline processing is facilitated through the **Obando Business One-Stop Shop (BOSS)** coordinated by the **Business Permits and Licensing Office (BPLO)** at the Municipal Hall in Brgy. Paliwas.
 
-## Step 2: Apply for Business Permit
+---
 
-Go to **Lapu-Lapu City BPLO** (Business Permit and Licensing Office).
+## Step 1: Business Name Registration
 
-**Requirements:**
+Before applying for local clearances, register your legal business entity with the appropriate national agency:
 
-- Unified Application Form
-- SEC Certificate of Registration + Articles of Partnership
-- Occupancy Permit (if owner) OR Lease Contract (if renting)
-- Community Tax Certificate (CTC)
+- **Sole Proprietorships:** Register business trade name with the **Department of Trade and Industry (DTI)** via [DTI BNRS Online](https://bnrs.dti.gov.ph/).
+- **Partnerships and Corporations:** Register Articles of Incorporation/Partnership with the **Securities and Exchange Commission (SEC)** via [SEC eSPARC](https://esparc.sec.gov.ph/).
+- **Cooperatives:** Register with the **Cooperative Development Authority (CDA)**.
 
-Apply in person or online via [Lapu-Lapu Online Business Permit Portal](https://businesspermit.lapulapucity.gov.ph/).
+**Required Output:** Official DTI Certificate of Business Name Registration or SEC Certificate of Registration with Articles and By-Laws.
 
-> Note: Inspections may include zoning, sanitary, and fire safety checks.
+---
 
-## Step 3: Register with BIR
+## Step 2: Secure Barangay Business Clearance
 
-File at the **BIR Revenue District Office (RDO)** where your office is located.
+Obtain clearance from the specific Barangay Hall where your physical store, office, warehouse, or fishpond operation is located (among Obando's 11 Barangays: Binuangan, Catanghalan, Hulo, Lawa, Paco, Pag-asa, Paliwas, Panghulo, Salambao, San Pascual, or Tawiran).
 
-- Fill out [BIR Form 1903](https://www.bir.gov.ph/images/1903%20Jan%202024.pdf)
-- Submit SEC Certificate + Articles of Partnership + valid IDs
-- Pay registration fee + Documentary Stamp Tax (DST)
+### Requirements:
 
-**Within 30 days of receiving BIR Certificate:**
+1. Valid government-issued photo ID of the business owner or authorized representative.
+2. DTI Certificate or SEC Registration.
+3. Proof of Right to Use Location:
+   - If renting: Signed **Contract of Lease** with lessor's consent.
+   - If owned: **Transfer Certificate of Title (TCT)** or current Real Property Tax Declaration.
+4. Barangay Clearance Application Form (available at the Barangay Hall).
 
-- Apply for Authority to Print Receipts (Form 1906) OR enroll in e-invoicing
-- Register your Books of Accounts
+**Processing:** File at the Barangay Treasurer / Secretary window. After verifying that the location does not violate barangay zoning or create public nuisance, the Barangay Clearance is issued upon payment of the barangay clearance fee.
 
-## Step 4: Register as Employer (if hiring)
+---
 
-Enroll with:
+## Step 3: Apply at the Obando Business One-Stop Shop (BPLO)
 
-- [SSS](https://www.sss.gov.ph/)
-- [PhilHealth](https://www.philhealth.gov.ph/)
-- [Pag-IBIG](https://www.pagibigfund.gov.ph/)
+Proceed to the **Obando Municipal Hall**, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan.
 
-## Process Flow
+### Standard Documentary Requirements:
 
-1. SEC name check + register via [SEC eSPARC](https://espac.sec.gov.ph/)
-2. Secure Barangay Certification + site/lease documents
-3. Apply for Business Permit at [Lapu-Lapu BPLO](https://businesspermit.lapulapucity.gov.ph/)
-4. File BIR Form 1903 → apply ATP → register books
+- [ ] DTI Certificate of Business Name / SEC Certificate with Articles & By-Laws.
+- [ ] Original Barangay Business Clearance (from the host barangay).
+- [ ] Contract of Lease (if rented) or Real Property Tax Declaration/Official Receipt (if owned).
+- [ ] Sketch / Location Map of the business establishment.
+- [ ] Community Tax Certificate (Cedula / CTC) for the current year (obtainable from the Obando Municipal Treasury).
+- [ ] Certificate of Occupancy or Building Permit clearance (from the Obando Municipal Engineering Office, if newly constructed or renovated).
 
-## Document Checklist
+### Integrated Regulatory Clearances (Processed at BOSS):
 
-- [ ] SEC Articles of Partnership + SEC Certificate
-- [ ] Lease Contract OR Occupancy/Building docs
-- [ ] Lapu-Lapu BPLO Unified Application Form + CTC
-- [ ] BIR Form 1903, IDs, ATP/Books
+The Obando BOSS streamlines compliance by coordinating internal inspections:
 
-With these steps, your partnership in Lapu-Lapu City will be fully compliant and ready to operate!
+1. **Zoning & Locational Clearance:** Verified by the Municipal Planning and Development Office (MPDO) to ensure compliance with municipal land use plans.
+2. **Sanitary Permit & Health Cards:** Issued by the Obando Rural Health Unit (RHU) after food handlers and staff submit required stool/x-ray/medical exams.
+3. **Fire Safety Inspection Certificate (FSIC):** Assessed and inspected by the Bureau of Fire Protection (BFP) Obando Fire Station.
+4. **Environmental Clearance:** Evaluated by the Municipal Environment and Natural Resources Office (MENRO) for waste management compliance (RA 9003).
+
+---
+
+## Step 4: Assessment and Payment of Local Taxes & Fees
+
+1. Submit completed Unified Application Form and attachments to the BPLO Evaluator for assessment.
+2. The BPLO issues an **Electronic Tax Order of Payment (TOP)** detailing:
+   - Mayor's Permit Fee (based on business classification and capital investment)
+   - Sanitary Inspection Fee
+   - Garbage Service Fee
+   - Zoning and Locational Clearance Fee
+   - Fire Inspection Fee (remitted to BFP)
+3. Settle payment at the **Municipal Treasury Cashier** at the ground floor of the Municipal Hall.
+4. Retain all official receipts (ORs) issued.
+
+---
+
+## Step 5: Issuance of Mayor's Business Permit
+
+Present your Official Receipts to the BPLO Releasing Counter to receive:
+
+- **Mayor's Business Permit** certificate (signed by the Municipal Mayor).
+- Municipal Business Plate or Official Renewal Sticker.
+- Approved Sanitary Permit from the Obando Rural Health Unit.
+
+> **Citizen Notice:** Post your Mayor's Permit, Business Plate, and Sanitary Permit conspicuously inside your establishment where they are readily visible to inspecting officers and the transacting public.
+
+---
+
+## Step 6: National Tax & Employer Registrations
+
+Within 30 calendar days of obtaining your business permit:
+
+1. **Bureau of Internal Revenue (BIR):** Register with **BIR Revenue District Office (RDO) 25B** (covering Obando and Southern Bulacan). Secure BIR Certificate of Registration (Form 2303), register Books of Accounts, and apply for Authority to Print (ATP) official receipts.
+2. **Statutory Employer Registrations:** If employing staff, enroll with **Social Security System (SSS)**, **PhilHealth**, and **Pag-IBIG Fund**.
+
+---
+
+## Frontline Contact Information
+
+- **Office:** Obando Business Permits and Licensing Office (BPLO)
+- **Location:** Ground Floor, Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **Service Hours:** Monday to Friday, 8:00 AM – 5:00 PM (No noon break during January BOSS)
+- **Municipal Trunkline:** (02) 8292-2043 (Obando Municipal Hall / PNP Assistance)

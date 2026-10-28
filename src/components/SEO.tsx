@@ -17,17 +17,23 @@ export default function SEO({
   image,
   url,
   type = 'website',
-  siteName = import.meta.env.VITE_GOVERNMENT_NAME || 'Local Government Website',
+  siteName = 'BetterObando',
 }: SEOProps) {
-  const defaultTitle = `${siteName} - Official Government Website`;
+  const defaultTitle = 'BetterObando | Community portal for Obando';
   const defaultDescription =
     import.meta.env.VITE_SITE_DESCRIPTION ||
-    `Official website of ${siteName}. Access government services, information, and resources.`;
+    'Community portal for Obando, Bulacan. Access government services, information, barangay hotlines, and civic resources.';
   const defaultKeywords =
     import.meta.env.VITE_SITE_KEYWORDS ||
-    'government, local government, services, public services, civic services';
+    'BetterObando, obando, bulacan, government, local government, services, public services, civic services';
 
-  const fullTitle = title ? `${title} | ${siteName}` : defaultTitle;
+  const fullTitle =
+    !title || title === 'Home'
+      ? defaultTitle
+      : title.includes('BetterObando')
+        ? title
+        : `${title} | ${siteName}`;
+
   const fullDescription = description || defaultDescription;
   const fullKeywords = keywords || defaultKeywords;
   const fullUrl = url || import.meta.env.VITE_WEBSITE_URL || '';
@@ -68,7 +74,7 @@ export default function SEO({
       {/* Additional Meta Tags */}
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-      <meta name="theme-color" content="#0066eb" />
+      <meta name="theme-color" content="#026c80" />
 
       {/* Canonical URL */}
       <link rel="canonical" href={fullUrl} />

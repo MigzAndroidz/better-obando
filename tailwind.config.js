@@ -20,16 +20,16 @@ export default {
       },
       colors: {
         primary: {
-          50: '#e6f0fd',
-          100: '#cce0fb',
-          200: '#99c2f7',
-          300: '#66a3f3',
-          400: '#3385ef',
-          500: '#0066eb', // primary blue
-          600: '#0052bc',
-          700: '#003d8d',
-          800: '#00295e',
-          900: '#00142f',
+          50: 'var(--theme-primary-50, #eef8fa)',
+          100: 'var(--theme-primary-100, #d4eef3)',
+          200: 'var(--theme-primary-200, #aee0e9)',
+          300: 'var(--theme-primary-300, #78c7d6)',
+          400: 'var(--theme-primary-400, #3ca8be)',
+          500: 'var(--theme-primary-500, #026c80)', // Deep River Blue base
+          600: 'var(--theme-primary-600, #025769)',
+          700: 'var(--theme-primary-700, #024756)',
+          800: 'var(--theme-primary-800, #063b47)',
+          900: 'var(--theme-primary-900, #08323c)',
         },
         secondary: {
           50: '#ffede6',
@@ -37,23 +37,23 @@ export default {
           200: '#ffb799',
           300: '#ff9466',
           400: '#ff7033',
-          500: '#ff4d00', // secondary orange
+          500: '#ff4d00',
           600: '#cc3e00',
           700: '#992e00',
           800: '#661f00',
           900: '#330f00',
         },
         accent: {
-          50: '#fef3e6',
-          100: '#fde7cc',
-          200: '#fbd099',
-          300: '#f9b866',
-          400: '#f7a133',
-          500: '#f58900', // accent yellow/gold
-          600: '#c46e00',
-          700: '#935200',
-          800: '#623700',
-          900: '#311b00',
+          50: 'var(--theme-accent-50, #fef9ee)',
+          100: 'var(--theme-accent-100, #fdf0d2)',
+          200: 'var(--theme-accent-200, #fbe0a4)',
+          300: 'var(--theme-accent-300, #f7ca6d)',
+          400: 'var(--theme-accent-400, #f2ab36)',
+          500: 'var(--theme-accent-500, #e69b00)', // Golden Harvest base
+          600: 'var(--theme-accent-600, #c97b00)',
+          700: 'var(--theme-accent-700, #9f5803)',
+          800: 'var(--theme-accent-800, #82450a)',
+          900: 'var(--theme-accent-900, #6c3a0d)',
         },
         success: {
           50: '#e6f7ef',

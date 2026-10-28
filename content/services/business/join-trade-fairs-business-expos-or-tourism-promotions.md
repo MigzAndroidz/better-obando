@@ -1,159 +1,88 @@
-# Participate in Local Trade Fairs, Business Expos, and Tourism Promotion Activities — Lapu-Lapu City
+# Participate in Local Trade Fairs, Business Expos, and Tourism Promotion Activities in Obando
 
-Showcase your products and services, meet buyers, and boost your brand by joining **city- and region-led trade fairs, business expos, and tourism promotions**.
-
----
-
-## Who Can Join
-
-- **MSMEs** (sole proprietors, partnerships, corporations, cooperatives)
-- **Tourism enterprises** (accommodations, tour operators/guides, transport, attractions, events, MICE suppliers)
-- **Cultural creators** (handicrafts, fashion, food, wellness, creative tech)
-- **LGU-accredited community groups** (livelihood associations, women/youth groups)
-
-**Priority is often given** to registered local businesses, OTOP-branded products, startups with export potential, and tourism enterprises aligned with the city’s events calendar.
+> How local entrepreneurs, artisans, and aquaculture producers can showcase products and participate in municipal and provincial trade events.
 
 ---
 
-## Event Types You’ll See
+## Overview
 
-- **City/Barangay Trade Fairs** – usually tied to festivals, holidays, and civic celebrations
-- **Business Expos & Startup Showcases** – buyers’ meets, B2B networking, product launches
-- **Tourism Promotion Activities** – travel marts, familiarization (Fam) tours, festivals, MICE activations
-- **Sector-Specific Bazaars** – food & beverage, fashion & crafts, wellness & health, marine/leisure
+The **Municipality of Obando**, in collaboration with the **Bulacan Provincial Tourism and Cultural Affairs Office**, **Department of Trade and Industry (DTI) Bulacan Provincial Office**, and local civic organizations, regularly organizes and sponsors trade fairs, agricultural and seafood bazaars, and cultural exhibitions.
 
----
+These events provide local Micro, Small, and Medium Enterprises (MSMEs), cooperative producers, handicraft makers, food processors, and aquaculture farmers with direct market access, buyer matching, and promotional exposure.
 
-## How to Participate (Step-by-Step)
+Major annual platforms include:
 
-1. **Prepare eligibility documents**
-   - DTI/SEC/CDA registration, BIR 2303
-   - Mayor’s/Business Permit (current year)
-   - Tourism accreditation/registration (if applicable)
-   - Product compliance (FDA/LTO/CPR for food & cosmetics; IPOPHL for trademarks if any)
-
-2. **Enroll or pre-register**
-   - Submit an **Application/Intent Form** with business profile, product list, booth needs, and preferred dates.
-   - For tourism activities, provide **tour packages/rates**, photos, and accreditation details.
-
-3. **Assessment & confirmation**
-   - Organizers screen for fit (quality, safety, branding, capacity).
-   - Once accepted, pay **booth fees** (if any) and sign guidelines.
-
-4. **Pre-event readiness**
-   - **Collateral:** banners, price cards, brochures, QR codes, calling cards
-   - **Packaging & labeling:** compliant, barcoded if possible, clear allergens/ingredients
-   - **Booth ops:** staffing schedule, POS/cashless, receipts, sampler policy
-   - **Logistics:** delivery, storage, cold chain (for perishables)
-
-5. **Event days**
-   - Arrive early for ingress; follow booth rules, safety, and waste management.
-   - Capture leads (name, company, email, WhatsApp/FB), offer show promos.
-
-6. **Post-event follow-up (within 72 hours)**
-   - Send thank-you notes/price lists, confirm orders, schedule product trials or site visits.
-   - Record metrics (see KPI list below) and plan reorders.
+- **Obando Fertility Dance Festival Cultural Fair (May 17-19):** Attracts tens of thousands of pilgrims, cultural visitors, and tourists to the Sanctuary of San Pascual Baylon and Nuestra Señora de Salambao.
+- **Bulacan Singkaban Festival Trade Fair:** Provincial trade showcase held at the Malolos Capitol grounds each September, featuring Obando delegations.
+- **Negosyo Center Obando MSME Bazaars:** Periodic seasonal fairs featuring processed fishery products (tinapa, bagoong, dried fish), agricultural produce, and native crafts.
 
 ---
 
-## Typical Requirements Checklist
+## Eligible Participants
 
-- [ ] Government IDs of owner/representative
-- [ ] DTI/SEC/CDA, BIR 2303, current **Mayor’s/Business Permit**
-- [ ] Barangay/City clearance (if requested)
-- [ ] **Product compliance** (FDA for food/cosmetics; HALAL/organic if claimed)
-- [ ] Tourism accreditation/registration (if a tourism enterprise)
-- [ ] Public liability insurance (recommended for large expos)
-- [ ] Booth layout & electrical needs (watts/amps), extension cords, PPE for ingress
-- [ ] Cashless payments (GCash/PayMaya/bank QR), receipt book or e-receipts
+Participation is open to:
 
----
-
-## Program Benefits You Can Tap
-
-- **Subsidized booth fees** for local MSMEs or accredited tourism enterprises
-- **Product development & mentoring** (branding, packaging, costing, export-readiness)
-- **Market matching** (B2B buyer programs, hotel/retail/online marketplace onboarding)
-- **Media exposure** (LGU press, social media spotlights, tourism campaigns)
+- **Registered Obando MSMEs:** Sole proprietorships, partnerships, or corporations with an active Obando Mayor's Permit.
+- **Aquaculture & Fisherfolk Associations:** Producers of fresh bangus, tilapia, crabs, and processed seafood delicacies.
+- **Food & Delicacy Processors:** Local producers of native sweets, pastillas, kakanin, and condiments complying with basic food hygiene standards.
+- **Handicraft & Artisan Creators:** Producers of religious souvenirs, fiesta keepsakes, woven goods, and upcycled items.
+- **LGU-Recognized Cooperatives and Women's Livelihood Groups:** Community associations endorsed by the Obando Municipal Social Welfare and Development Office (MSWDO) or Municipal Agriculture Office.
 
 ---
 
-## Cost Planning (Sample)
+## Steps to Join a Trade Fair or Expo
 
-| Item               | Budget Hint                              |
-| ------------------ | ---------------------------------------- |
-| Booth fee (if any) | ₱0–₱15,000 (depends on event)            |
-| Build/branding     | ₱1,000–₱10,000 (tarps, standees, lights) |
-| Samples/giveaways  | 2–5% of target sales                     |
-| Staff & logistics  | Transport, meals, ingress/egress         |
-| Contingency        | 10% of total budget                      |
+### Step 1: Inquire About the Municipal Trade Calendar
 
----
+Check upcoming trade fairs and booth allocation schedules through:
 
-## On-Site Sales & Branding Tips
+- **Municipal Tourism & Cultural Affairs Desk** (Obando Municipal Hall, Paliwas)
+- **DTI Negosyo Center Obando**
+- Official municipal notices and barangay bulletin boards
 
-- Price clearly (bundle sets for quick buys; offer **show-only promos**).
-- Use a simple **lead capture** sheet or QR form.
-- Display a **brand story card** (origin, materials, sustainability, community impact).
-- Encourage **reviews** and **UGC** (QR to FB/IG/TikTok, hashtag).
-- Bring **backup stock** and a **reorder form**.
+### Step 2: Submit an Expression of Interest / Application
 
----
+Fill out the **MSME Trade Fair Participation Application Form** and submit the following documentary attachments:
 
-## KPIs to Track
+1. Copy of valid government-issued ID of the business owner.
+2. DTI Certificate of Business Name Registration (or CDA Certificate for cooperatives).
+3. Current Obando Mayor's Business Permit or Barangay Livelihood Endorsement.
+4. Product Catalog or clear photographs of products intended for display, including retail price list.
+5. For food products: Proof of Sanitary Permit or FDA Certificate of Product Registration (CPR) / License to Operate (LTO) if commercially packaged.
 
-- **Foot traffic** and **conversion rate**
-- **Average order value (AOV)** and **gross margin**
-- **Leads captured** and **B2B meetings booked**
-- **Repeat orders** within 30/60/90 days
-- **Media/social reach** and follower growth
+### Step 3: Screening and Curation
 
----
+The Municipal Screening Committee evaluates applicants based on:
 
-## Where to Watch for Calls & Schedules (Lapu-Lapu / Cebu)
+- **Product Authenticity & Quality:** Distinctive Obando craftsmanship or agricultural/aquaculture origin.
+- **Packaging & Labeling:** Clean, attractive packaging with clear expiry dates and ingredient declarations.
+- **Production Capacity:** Ability to maintain stock for the full duration of the event.
 
-- **Lapu-Lapu City**: City Information Office, Business Permits & Licensing Office (BOSS announcements), City Tourism & Cultural Affairs
-- **Negosyo Center / MSME Office**: product dev, fairs, OTOP activities
-- **Tourism Bodies**: city/regional tourism offices for travel marts, festivals, Fam tours, MICE events
-- **Chambers & Associations**: local chamber of commerce, hotel/resort associations, exporters’ groups
-- **Schools & Malls**: seasonal bazaars, startup fairs, internship & career expos
+### Step 4: Pre-Fair Briefing & Booth Assignment
 
----
+Qualified exhibitors attend a mandatory orientation covering:
 
-# Key Local Contacts — Lapu-Lapu City
+- Booth dimensions, ingress/egress schedules, electrical load allowances, and fire safety guidelines.
+- Zero single-use plastic policy and waste segregation rules (in compliance with Obando MENRO standards).
+- Digital payment readiness (cashless QR Ph, GCash, or Maya setups encouraged for visitor convenience).
 
-Use these offices when coordinating for **trade fairs, business expos, permits, and tourism promotion activities**.
+### Step 5: Post-Fair Reporting
+
+Exhibitors submit a brief post-event sales summary sheet to the Negosyo Center. This data helps the LGU assess economic impact and qualify participants for larger regional expos (such as the Central Luzon Trade Fair or Manila FAME).
 
 ---
 
-| Office / Role                                                                 | Address / Location                                    | Contact Number  | Email / Other Contact Info                                                                                                                                   |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Business Permit & Licensing Office (BPLO)**                                 | City Hall Main Building, Lapu-Lapu Government Complex | (032) 340-0004  | —                                                                                                                                                            |
-| **PESO Lapu-Lapu City** (Student Employment, Local Promotions)                | Pajo, Lapu-Lapu City, Cebu 6015                       | (032) 340-8264  | Facebook: [PESO Lapu-Lapu City](https://ph.locale.online/peso-lapu-lapu-city-47947610.html)                                                                  |
-| **City Information Office / Treasurer’s Office**                              | Lapu-Lapu City Hall / Hoops Dome during events        | (032) 340-1615  | Updates: [Official Facebook Page](https://www.facebook.com/photo.php?fbid=122128211810564979&id=61566949391179&set=a.122105111324564979)                     |
-| **Lapu-Lapu City Tourism Office**                                             | City Government / Tourism Department                  | +63 32 495-5593 | Email: llctourism.inquiry@gmail.com • [Instagram Location Page](https://www.instagram.com/explore/locations/2149053888682923/lapu-lapu-city-tourism-office/) |
-| **City-Wide Trade Fair / Renewal Venue** (used for permit renewals and expos) | Hoops Dome, Barangay Gun-ob                           | —               | News: [SunStar — Biz Permit Renewals at Hoops Dome](https://www.sunstar.com.ph/cebu/lapu-launches-new-system-for-biz-permit-renewals)                        |
+## Program Support and Incentives
+
+- **Subsidized or Free Booth Spaces:** Registered local MSMEs generally receive free or heavily subsidized booths for municipal-sponsored events.
+- **Packaging and Design Assistance:** Free consultations from DTI Bulacan for label redesign, nutritional labeling, and brand enhancement.
+- **Financial Literacy & Digital Marketing Seminars:** Free training sessions hosted by the Negosyo Center on bookkeeping, e-commerce, and social media marketing.
 
 ---
 
-✅ Tip: Save these contacts and follow their **Facebook pages** — most trade fair and expo announcements in Lapu-Lapu are posted there first.
+## Contact and Inquiries
 
----
-
-## Sample Email to Join an Event
-
-> **Subject:** Participation Inquiry – [Your Brand] for [Event Name/Date]  
-> Hello [Organizer Name],  
-> We’re a Lapu-Lapu–based [business type] offering [brief product/service]. We’d like to apply for a booth at **[Event Name]** on **[Date]**.  
-> **Attachments:** Business registration, product list/prices, photos, compliance (FDA/accreditation).  
-> **Needs:** [table + 1 outlet + 500W], ingress day-before preferred.  
-> Thank you and we look forward to promoting Lapu-Lapu products/tourism at your event.  
-> **Contact:** [Name, Mobile, Email, Links]
-
----
-
-## Safety & Compliance
-
-- Follow **fire safety**, **ingress/egress**, and **electrical load** limits.
-- For food: secure **permits**, maintain **temperature control**, and practice **safe sampling**.
-- Respect IP: don’t use copyrighted music/images without permission; avoid counterfeit or misbranded goods.
+- **Office:** Municipal Tourism & Information Office / DTI Negosyo Center Obando
+- **Address:** Ground Floor, Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **Office Hours:** Monday to Friday, 8:00 AM – 5:00 PM
+- **Emergency & Municipal Inquiries:** (02) 8292-2043

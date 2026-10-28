@@ -1,98 +1,92 @@
-# Go to the Local Hospital for Treatment or Confinement — Lapu-Lapu City
+# Hospital Referral, Emergency Confinement, and In-Patient Care for Obando Residents
 
-This guide covers **where to go**, **what to bring**, and **how admission works** at local hospitals in Lapu-Lapu City, including the city-run facility and nearby private hospitals.
-
----
-
-## A) Government Hospital (City-Run)
-
-### Sta. Rosa Community Hospital (Lapu-Lapu City)
-
-**Services & Hours**
-
-- **Emergency (Medical & Medico-legal):** 24/7
-- **Ward (In-patient confinement):** 24/7
-- **Out-Patient:** Mon–Fri, 8:00 AM–5:00 PM (except holidays)
-
-**Emergency (Medical cases) – Quick Steps**
-| Step | What you do | Hospital does | Typical time |
-|---|---|---|---|
-| 1 | Seek care at ER | Triage, vitals, initial MD orders | ~10–25 min |
-| 2 | Sign consent (treatment/admission if needed) | Prepare meds/tests; set for transfer to ward if admitted | ~20–25 min |
-| 3 | Transfer to ward (if for confinement) | ER endorses to Ward Nurse on duty | ~10 min |
-
-**Requirements (bring if available):** Registration data sheet (onsite), **PhilHealth ID/MDR (optional)**, doctor’s referral/admitting orders (if coming from clinic).
-
-**Ward (In-patient) – What to expect**
-
-- Follow doctor’s orders; nurses administer meds/tests; dietary issued as ordered.
-- For discharge: instructions & schedule for follow-ups are given; proceed to Billing for clearance; release at Ward/Nurse station.
-- **Fees:** Posted at Billing.
-- **Note:** If not enrolled in PhilHealth, staff will guide processing if a relative can provide documents.
+> Guide on public hospital referrals, nearest emergency facilities, PhilHealth No Balance Billing (NBB), and 24/7 medical transport from Obando, Bulacan.
 
 ---
 
-## B) Private Hospitals Nearby
+## Overview
 
-| Hospital                                     | Where                 | Beds/Notes                            | Admissions basics                                                                                                                     |
-| -------------------------------------------- | --------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mactan Doctors’ Hospital (CebuDoc Group)** | Basak, Lapu-Lapu City | **151-bed tertiary** private hospital | Bring valid ID; company/HMO authorization if applicable; PhilHealth forms; fill out admission forms and submit to Admissions/Billing. |
-| **ARC Hospitals**                            | Lapu-Lapu City        | **~100-bed** private hospital         | Standard private-hospital admission flow; coordinate with Admissions/HMO/PhilHealth desk.                                             |
+The Municipality of Obando operates a primary-level **Rural Health Unit (RHU)** in Brgy. Paliwas providing outpatient care, basic laboratory services, and preventive health.
 
-> Private hospitals typically require **initial deposits** (varies by case/room) unless fully covered by HMO/PhilHealth arrangements. Confirm at the **Billing/Admissions** desk.
+For medical conditions requiring **emergency surgery, intensive care, trauma resuscitation, advanced diagnostics (CT scan, MRI), or hospital confinement**, Obando residents are referred to designated government district and provincial hospitals located in nearby cities, as well as adjacent tertiary medical centers.
 
----
-
-## C) What to Bring (All Hospitals)
-
-- **Valid ID** (with photo & signature)
-- **PhilHealth** ID and **MDR** (Member Data Record); if a dependent, bring proof of dependency
-- **Doctor’s referral/admitting order** (if elective admission)
-- **HMO/Company**: LOA/guarantee letter, membership/ID cards (if applicable)
-- **Personal necessities** (for confinement)
+The Obando Municipal Disaster Risk Reduction and Management Office (MDRRMO) provides **24/7 free emergency ambulance transport** for urgent cases and hospital transfers.
 
 ---
 
-## D) Costs & PhilHealth Coverage
+## Nearest Government Referral Hospitals
 
-- **City hospital:** Fees are posted at **Billing**; **PhilHealth** benefits may apply at admission/discharge processing.
-- **No Balance Billing (NBB):** For **indigent/sponsored**, **senior citizens**, and certain categories in **government hospitals**, no other fees beyond PhilHealth package should be charged during confinement (subject to policy and facility capacity).
+### 1. Valenzuela Medical Center (VMC)
 
----
+- **Status:** DOH Tertiary Level III Government Training Hospital (Closest tertiary public hospital to Obando).
+- **Location:** Padrigal St., Karuhatan, Valenzuela City (approx. 5 to 7 km from Obando boundary via Panghulo/Polo).
+- **Emergency Services:** 24/7 Trauma and Emergency Room, Intensive Care Units (ICU, NICU, PICU), Hemodialysis, Blood Bank, Surgery, Malasakit Center.
+- **Emergency Trunkline:** (02) 8294-6711 to 16
 
-## E) How to Avail — At a Glance
+### 2. Meycauayan General Hospital (Bulacan Provincial Hospital - Meycauayan)
 
-### Emergency (any hospital)
+- **Status:** Bulacan Provincial Government District Hospital.
+- **Location:** Malhacan / Iba, Meycauayan City, Bulacan (adjacent municipality to the north of Obando).
+- **Services:** Emergency care, general inpatient ward confinement, minor surgery, pediatric ward, obstetrics, Malasakit Center desk.
+- **Contact:** (044) 769-1422
 
-1. **Go straight to ER** (24/7).
-2. **Triage & initial orders** → stabilization/tests.
-3. **If admitted:** sign consent → transfer to ward → submit IDs/PhilHealth/HMO at Admissions/Billing.
+### 3. Bulacan Medical Center (BMC)
 
-### Elective Admission (planned confinement/procedure)
-
-1. Obtain **doctor’s admitting order** & **referral**.
-2. Prepare **IDs, PhilHealth, HMO/LOA** (if any).
-3. Proceed to **Admissions** for room assignment, forms, and initial billing arrangements.
-
----
-
-## F) Useful Contacts
-
-- **Lapu-Lapu City Hospital / District Hospital (Gov’t)**
-  - A. Tumulak St., Gun-ob, Lapu-Lapu City
-  - **Tel:** (032) 340-0249 / 340-0248
-  - **Email:** lapulapucityhospital@yahoo.com
-
-- **Mactan Doctors’ Hospital (Private, CebuDoc Group)**
-  - Basak, Lapu-Lapu City
-  - **Trunkline:** +63 (32) 239-7002 to 7016
-
-- **ARC Hospitals (Private)**
-  - Lapu-Lapu City (100-bed facility)
+- **Status:** Provincial Tertiary Referral Hospital of Bulacan.
+- **Location:** Mojon, City of Malolos, Bulacan.
+- **Services:** Comprehensive tertiary medical and surgical subspecialties, oncology referral, regional trauma center.
+- **Contact:** (044) 791-0630
 
 ---
 
-### Notes
+## What to Do During a Medical Emergency in Obando
 
-- Bring your **PhilHealth** documents even for emergencies; if unavailable, the hospital can guide you on follow-up submission.
-- Schedules and processes can change; confirm by calling the hospital **Admissions/Billing** desk before a planned confinement.
+```
+[1. Call Obando Rescue Hotline]
+Dial Obando MDRRMO Emergency Operations Center: (02) 8281-5816 or (02) 8292-2043.
+Provide caller's name, patient's condition, and exact address/landmark.
+       ↓
+[2. Dispatch of 24/7 Municipal Ambulance]
+Paramedics provide on-scene stabilization, oxygen support, and vital signs monitoring.
+       ↓
+[3. Direct Transport to Appropriate Hospital]
+Ambulance transports patient directly to the nearest receiving ER
+(typically Valenzuela Medical Center or Meycauayan General Hospital).
+```
+
+---
+
+## What Documents to Bring for Hospital Admission
+
+When proceeding to the hospital emergency department or admission desk, bring the following if immediately available (do not delay emergency transport for missing papers):
+
+- [ ] **Valid Government-Issued Photo ID** (PhilSys National ID, Driver's License, Voter's ID, or Postal ID).
+- [ ] **PhilHealth ID Number / Member Data Record (MDR)**:
+  - Direct contributors (employed, self-paying, OFW).
+  - Indirect contributors (senior citizens, indigent sponsored members, 4Ps beneficiaries).
+- [ ] **RHU Referral Slip / Clinical Summary** (if endorsed by the Obando Municipal Health Officer).
+- [ ] **Previous Medical Records**: Diagnostic lab results, maintenance medications, allergy tags, or previous discharge summaries.
+- [ ] **Personal Necessities**: Clothing, basic toiletries, and infant essentials if for maternity confinement.
+
+---
+
+## Hospital Bill Assistance and the Malasakit Center
+
+All public referral hospitals serving Obando (including Valenzuela Medical Center, Meycauayan General Hospital, and Bulacan Medical Center) host a one-stop **Malasakit Center** that consolidates financial assistance desks:
+
+1. **PhilHealth No Balance Billing (NBB) Policy:**
+   - Under DOH and PhilHealth regulations, qualified indigent patients, sponsored members, 4Ps beneficiaries, and senior citizens confined in ward-type accommodations in government hospitals are covered under the **No Balance Billing** policy. No out-of-pocket charges should be billed beyond the PhilHealth package rate.
+2. **Medical Assistance for Indigent Patients (MAIP / MAIFIP):**
+   - Covers non-formulary medications, surgical implants, laboratory procedures, and specialized treatments not covered by basic PhilHealth.
+3. **DSWD and LGU AICS Desk:**
+   - Financial guarantees for medical supplies, prosthetics, and post-discharge medications.
+   - Obando residents can also request a Certificate of Indigency from their Barangay Captain and visit the Obando **Municipal Social Welfare and Development Office (MSWDO)** in Paliwas for local financial medical assistance.
+
+---
+
+## Emergency Health Hotlines
+
+- **Obando MDRRMO Rescue 24/7 Hotline:** **(02) 8281-5816**
+- **Obando Rural Health Unit (Paliwas):** (02) 8332-2744
+- **Obando Municipal Police Station (PNP):** (02) 8292-2043
+- **Bureau of Fire Protection (BFP Obando):** (02) 8299-7996

@@ -1,10 +1,43 @@
 # Department Pages
-# This file contains all the pages/governments available under the Department
+# Municipal departments, agencies, and frontline administrative offices of Obando, Bulacan
 
 pages:
-  - name: 'Executive'
+  - name: 'Executive Department'
     slug: 'executive'
-    description: "Find out about your Mayor and Vice Mayor, including upcoming events, the Mayor's Community Assistance Program, mayoral history, and information about other historic roles in the local government unit."
-  - name: 'Legislative'
+    description: "Office of the Municipal Mayor Leonardo 'Ding' D. Valeda and Vice Mayor Rowell S. Rillera, executive orders, community assistance, and general municipal administration."
+
+  - name: 'Legislative Department (Sangguniang Bayan)'
     slug: 'legislative'
-    description: 'As of the 2025–2028 term, the Sangguniang Panlungsod (City Council) of Lapu-Lapu City has 12 elected councilors, with the Vice Mayor as the presiding officer of the council.'
+    description: 'The Sangguniang Bayan ng Obando, presided over by Vice Mayor Rowell S. Rillera, responsible for local ordinances, resolutions, and municipal appropriations.'
+
+  - name: 'Business Permits & Licensing Office (BPLO)'
+    slug: 'bplo'
+    description: 'Frontline commercial licensing, new business applications, annual BOSS renewals, and regulatory permits.'
+
+  - name: 'Municipal Treasury Office (MTO)'
+    slug: 'treasury'
+    description: 'Assessment and collection of local business taxes, real property tax (amilyar), community tax certificates (cedula), and tax clearances.'
+
+  - name: 'Municipal Planning & Development Office (MPDO)'
+    slug: 'planning-development'
+    description: 'Zoning administration, locational clearances, comprehensive land-use planning (CLUP), and socio-economic profiling.'
+
+  - name: 'Municipal Engineering Office (MEO)'
+    slug: 'engineering'
+    description: 'Building official services, building permits, occupancy certificates, infrastructure construction, and road/drainage maintenance.'
+
+  - name: 'Municipal Health Office & Rural Health Unit (RHU)'
+    slug: 'health-office'
+    description: 'Free primary medical consultations, essential medicines, child immunization, maternal healthcare, and sanitary permits.'
+
+  - name: 'Municipal Social Welfare & Development Office (MSWDO)'
+    slug: 'social-welfare'
+    description: 'Crisis assistance (AICS), senior citizen IDs (OSCA), PWD welfare, solo parents assistance, and child development daycare centers.'
+
+  - name: 'Municipal Environment & Natural Resources Office (MENRO)'
+    slug: 'menro'
+    description: 'Ecological solid waste collection, river protection, coastal cleanup drives, mangrove reforestation, and environmental compliance.'
+
+  - name: 'Municipal Disaster Risk Reduction & Management Office (MDRRMO)'
+    slug: 'mdrrmo'
+    description: '24/7 emergency operations center, high-tide early warning bulletins, emergency medical transport, and flood rescue operations.'

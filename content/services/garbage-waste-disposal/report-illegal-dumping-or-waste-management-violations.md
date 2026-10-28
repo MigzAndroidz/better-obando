@@ -1,65 +1,96 @@
-# Report Illegal Dumping & Waste Management Violations — Lapu-Lapu City
+# Report Illegal Dumping, Open Burning, and Waste Violations in Obando
 
-Illegal dumping, open burning, and improper waste practices are violations of **Republic Act 9003 (Ecological Solid Waste Management Act)** and city ordinances. Residents are encouraged to report offenders to help keep Lapu-Lapu City clean and safe.
-
----
-
-## 1) What to Report
-
-| Violation                           | Examples                                                                                              |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Illegal dumping**                 | Throwing trash in vacant lots, rivers, canals, sidewalks, or open spaces                              |
-| **Open burning**                    | Burning household or yard waste, plastics, or tires                                                   |
-| **Improper disposal by businesses** | Mixing segregated waste, throwing garbage outside collection days, failing to hire accredited haulers |
-| **Hazardous waste violations**      | Disposing of batteries, chemicals, medical waste with household trash                                 |
-| **Uncollected garbage sites**       | Overflowing bins or uncollected waste attracting pests                                                |
+> Procedures for reporting unlawful waste dumping in rivers, open burning (siga), and commercial environmental violations to Obando MENRO and the PNP.
 
 ---
 
-## 2) How to Report
+## Overview
 
-1. **Barangay Level (First Step)**
-   - Go to your **Barangay Hall** or message the **Barangay Facebook Page**.
-   - Ask for the **Barangay Environment/Solid Waste Committee**.
-   - Provide: **exact location**, **type of violation**, **time/date**, and **photos/videos** if possible.
+Dumping waste into riverbanks, estuaries, and vacant lots in Obando severely damages the town's aquaculture and exacerbates flooding during monsoons and high tides.
 
-2. **City Environment and Natural Resources Office (CENRO)**
-   - If the violation is large-scale, recurring, or unaddressed by the barangay, contact **CENRO** at City Hall.
-   - Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)
-   - Updates and announcements: [Lapu-Lapu City Government Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+The **Municipal Government of Obando**, through the **Municipal Environment and Natural Resources Office (MENRO)**, the **Obando Municipal Police Station (PNP)**, and the **Bantay Dagat**, enforces strict environmental policing to identify, apprehend, and penalize violators of Republic Act 9003, the Clean Water Act (RA 9275), and the Clean Air Act (RA 8749).
 
-3. **Other Hotlines**
-   - **City Information Office (CIO):** (032) 340-1615 (for reports and follow-up).
-   - **Philippine National Police (PNP):** for dumping that threatens public safety or involves large-scale transport.
+Bona fide reports and complaints from observant citizens are investigated and addressed immediately.
 
 ---
 
-## 3) What Happens After Reporting
+## Reportable Environmental Violations
 
-- **Barangay/CENRO inspection team** will visit the site.
-- **Offenders may be fined or penalized** under city ordinances.
-- For businesses, repeated violations can lead to **closure or suspension of business permits**.
-- Collected evidence (photos, witness accounts) strengthens enforcement action.
-
----
-
-## 4) Tips for Effective Reporting
-
-- Take **clear photos or videos** (include street names/landmarks).
-- Note the **time and date** you saw the violation.
-- Submit your **name and contact info** if you want updates (anonymous tips are still accepted).
-- Encourage neighbors to also report — multiple reports prompt quicker action.
+| Violation                       | Description                                                                                                                | Governing Law                        |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **River & Canal Dumping**       | Throwing garbage, plastic bags, or debris into the Obando River, Binuangan waterways, tidal creeks, or drainage esteros    | RA 9003 / RA 9275                    |
+| **Open Burning (Pagsisiga)**    | Burning household trash, plastic, dried leaves, or rubber tires in open yards, empty lots, or along river dikes            | RA 8749 / RA 9003                    |
+| **Commercial Illegal Disposal** | Businesses, markets, or poultry/fish traders discharging untreated wastewater, offal, or chemicals directly into waterways | RA 9275 / Obando Revenue Code        |
+| **Littering in Public Spaces**  | Discarding cigarette butts, food wrappers, or drink cups along sidewalks, plazas, parks, or church grounds                 | Municipal Anti-Littering Ordinance   |
+| **Obstruction of Drainage**     | Dumping construction soil, hollow blocks, or debris into municipal canals or culverts                                      | Municipal Building & Sanitation Code |
 
 ---
 
-## 5) Penalties (as a reminder)
+## Step-by-Step Procedure to File a Report
 
-- **Illegal dumping & open burning**: Fines and/or community service.
-- **Businesses without accredited haulers**: Higher penalties, possible permit suspension.
-- **Repeat offenders**: May face higher fines, legal cases, or closure orders.
+### Step 1: Gather Supporting Evidence (Safely)
+
+To build an enforceable case, collect as much verified information as possible without confronting the violator:
+
+- **Clear Photographs or Video Footage:** Showing the act of dumping or burning, the perpetrator, or vehicles/tricycles/motorboats involved (including plate numbers or boat names).
+- **Exact Location:** Street address, landmark, nearby house number, river kilometer, or GPS coordinate.
+- **Date and Time:** Exact time the violation took place, and whether it is a recurring activity (e.g., late-night or early-morning dumping).
+
+### Step 2: File the Complaint Through Official Channels
+
+#### Option A: Barangay Environmental Desk (Immediate Local Action)
+
+- Proceed to the **Barangay Hall** where the violation occurred.
+- Report to the **Barangay Tanod on duty** or the **Committee on Environment and Health**.
+- For ongoing violations (such as active open burning), barangay tanods will be immediately dispatched to order an immediate cessation and issue a first citation ticket.
+
+#### Option B: Direct to Obando MENRO (Administrative Action & Business Fines)
+
+- Visit the **MENRO Office** at the ground floor of the Obando Municipal Hall, Brgy. Paliwas.
+- You may submit a written complaint or file a report verbally with the environmental inspector.
+- Phone hotline: **(02) 8292-2043** (Trunkline, ask for MENRO).
+
+#### Option C: Obando Municipal Police Station (Urgent / Large-Scale Violations)
+
+- For commercial dump trucks, illegal river barges, or hazardous chemical discharge occurring outside business hours:
+- Call the **Obando PNP Station Hotline:** **(02) 8292-2043** (24/7 Police Assistance Desk).
 
 ---
 
-### Key Reminder
+## What Happens After a Report is Filed?
 
-✅ Reporting waste violations is a **civic duty**. By promptly alerting your barangay or CENRO, you help protect your community’s health, prevent flooding, and keep Lapu-Lapu City sustainable.
+```
+[1. Incident Logging]
+Report logged into the MENRO Environmental Incident Registry.
+       ↓
+[2. On-Site Inspection & Verification]
+MENRO Environmental Inspectors / Barangay Tanods conduct ocular inspection of the site.
+Air/water or physical waste samples documented.
+       ↓
+[3. Notice of Violation (NOV) Issued]
+Property owner or perpetrator summoned to the Municipal Hall.
+Citation ticket issued with corresponding administrative fine.
+       ↓
+[4. Mandatory Remediation & Clean-Up]
+Perpetrator is required to clean and restore the site at their own expense within 48 hours.
+       ↓
+[5. Legal / Business Escalation]
+Failure to comply leads to formal filing of charges under RA 9003 / RA 8749
+and revocation of municipal business permits for commercial establishments.
+```
+
+---
+
+## Whistleblower Protection and Confidentiality
+
+Complainants may choose to file **confidential or anonymous reports**. Your personal identifying information will not be disclosed to the violator during administrative investigations.
+
+---
+
+## Frontline Hotlines for Obando
+
+- **Office:** Municipal Environment and Natural Resources Office (MENRO)
+- **Location:** Ground Floor, Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan 3021
+- **MENRO / Municipal Office Line:** (02) 8292-2043
+- **Obando Municipal Police Station (PNP 24/7):** (02) 8292-2043
+- **Obando MDRRMO Emergency Operations Center:** (02) 8281-5816
