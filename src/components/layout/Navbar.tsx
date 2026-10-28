@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
     }
     return 'river';
   });
-  const { i18n } = useTranslation('common');
+  const { t, i18n } = useTranslation('common');
 
   const togglePalette = () => {
     if (palette === 'river') {
@@ -54,6 +54,25 @@ const Navbar: React.FC = () => {
 
   const toggleSubmenu = (label: string) => {
     setActiveMenu(activeMenu === label ? null : label);
+  };
+
+  const getNavLabel = (label: string) => {
+    switch (label) {
+      case 'Services':
+        return t('navbar.services', 'Services');
+      case 'Forms & Permits':
+        return t('navbar.forms', 'Forms & Permits');
+      case 'Barangays':
+        return t('navbar.barangays', 'Barangays');
+      case 'Community Tools':
+        return t('navbar.communitytools', 'Community Tools');
+      case 'Government':
+        return t('navbar.government', 'Government');
+      case 'About':
+        return t('navbar.about', 'About');
+      default:
+        return label;
+    }
   };
 
   const isFilipino = i18n.language && i18n.language.startsWith('fil');
@@ -86,12 +105,16 @@ const Navbar: React.FC = () => {
             <button
               onClick={togglePalette}
               title={`Switch Theme (Current: ${palette === 'river' ? 'Option 1: River & Mangrove' : 'Option 2: Fiesta & Heritage'})`}
-              className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[11px] font-medium border border-gray-200 bg-white text-gray-700 hover:border-primary-400 hover:text-primary-700 transition-colors"
+              className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[11px] font-medium border border-gray-200 bg-white text-gray-700 hover:border-primary-400 hover:text-primary-700 transition-colors focus:outline-none focus:ring-1 focus:ring-primary-500"
             >
               <Palette className="h-3 w-3 text-accent-500" />
-              <span className="hidden md:inline">Palette:</span>
+              <span className="hidden md:inline">
+                {t('navbar.switchTheme', 'Theme')}:
+              </span>
               <span className="font-semibold">
-                {palette === 'river' ? 'River & Mangrove' : 'Fiesta & Heritage'}
+                {palette === 'river'
+                  ? t('navbar.riverPalette', 'River & Mangrove')
+                  : t('navbar.heritagePalette', 'Fiesta & Heritage')}
               </span>
             </button>
 
@@ -125,10 +148,13 @@ const Navbar: React.FC = () => {
       </div>
 
       {/* Main Navigation Bar */}
-      <nav className="container mx-auto px-4">
+      <nav className="container mx-auto px-4" aria-label="Main Navigation">
         <div className="flex justify-between items-center py-3.5">
           {/* Brand Logo & Name */}
-          <Link to="/" className="flex items-center gap-3 group">
+          <Link
+            to="/"
+            className="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-primary-500 rounded-lg p-1"
+          >
             <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-primary-700 to-primary-500 flex items-center justify-center text-white shadow-sm group-hover:scale-105 transition-transform">
               <CheckCircle2 className="h-6 w-6" />
             </div>
@@ -148,9 +174,9 @@ const Navbar: React.FC = () => {
               <div key={item.label} className="relative group py-2">
                 <Link
                   to={item.href}
-                  className="flex items-center text-sm text-gray-700 hover:text-primary-700 font-semibold transition-colors"
+                  className="flex items-center text-sm text-gray-700 hover:text-primary-700 font-semibold transition-colors focus:outline-none focus:ring-1 focus:ring-primary-500 rounded px-1"
                 >
-                  {item.label}
+                  {getNavLabel(item.label)}
                   {item.children && (
                     <ChevronDown className="ml-1 h-3.5 w-3.5 text-gray-400 group-hover:text-primary-600 transition-transform group-hover:rotate-180" />
                   )}
@@ -187,14 +213,12 @@ const Navbar: React.FC = () => {
 
           {/* Desktop CTA */}
           <div className="hidden lg:flex items-center gap-3">
-            <a
-              href="https://bettergov.ph/join-us"
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex items-center justify-center px-4 py-2 text-xs font-bold bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors shadow-sm"
+            <Link
+              to="/about"
+              className="inline-flex items-center justify-center px-4 py-2 text-xs font-bold bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors shadow-sm focus:outline-none focus:ring-2 focus:ring-primary-500"
             >
-              Get Involved
-            </a>
+              {t('navbar.about', 'About')}
+            </Link>
           </div>
 
           {/* Mobile Menu Button */}
@@ -202,7 +226,8 @@ const Navbar: React.FC = () => {
             <button
               onClick={toggleMenu}
               aria-label="Toggle navigation menu"
-              className="p-2 rounded-lg text-gray-700 hover:text-primary-600 hover:bg-gray-100 focus:outline-none"
+              aria-expanded={isOpen}
+              className="p-2 rounded-lg text-gray-700 hover:text-primary-600 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-primary-500"
             >
               {isOpen ? (
                 <X className="h-6 w-6" />
@@ -224,12 +249,13 @@ const Navbar: React.FC = () => {
                     onClick={closeMenu}
                     className="font-semibold text-sm text-gray-800 hover:text-primary-600"
                   >
-                    {item.label}
+                    {getNavLabel(item.label)}
                   </Link>
                   {item.children && (
                     <button
                       onClick={() => toggleSubmenu(item.label)}
-                      className="p-1 text-gray-500"
+                      aria-label={`Toggle ${item.label} submenu`}
+                      className="p-1 text-gray-500 focus:outline-none"
                     >
                       <ChevronDown
                         className={`h-4 w-4 transition-transform ${
@@ -258,14 +284,13 @@ const Navbar: React.FC = () => {
             ))}
 
             <div className="pt-3 px-2 flex flex-col gap-2">
-              <a
-                href="https://bettergov.ph/join-us"
-                target="_blank"
-                rel="noreferrer"
+              <Link
+                to="/about"
+                onClick={closeMenu}
                 className="w-full text-center py-2.5 bg-primary-600 text-white font-bold text-xs rounded-lg shadow-sm"
               >
-                Get Involved / Volunteer
-              </a>
+                {t('navbar.about', 'About Better Obando')}
+              </Link>
             </div>
           </div>
         )}

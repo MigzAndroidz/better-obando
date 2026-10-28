@@ -1,36 +1,58 @@
 {
-  "site_name": "Bayan ng Obando",
-  "site_description": "Isang portal na pinapatakbo ng komunidad para sa Bayan ng Obando, Bulacan",
+  "site_name": "Better Obando",
+  "site_description": "Isang independyenteng portal pangkomunidad para sa Bayan ng Obando, Bulacan",
+  "navbar": {
+    "home": "Tahanan",
+    "services": "Mga Serbisyo",
+    "forms": "Mga Porma at Permiso",
+    "barangays": "Mga Barangay",
+    "communitytools": "Mga Gamit Pangkomunidad",
+    "government": "Pamahalaan",
+    "about": "Tungkol Dito",
+    "switchTheme": "Tema",
+    "riverPalette": "Ilog at Bakawan",
+    "heritagePalette": "Pista at Tradisyon",
+    "hotlines": "Mga Hotline",
+    "viewAll": "Tingnan Lahat →"
+  },
+  "emergency": {
+    "title": "Mga Hotline ng Obando:",
+    "mdrrmo": "MDRRMO Rescue",
+    "pnp": "Pulisya ng Obando",
+    "bfp": "BFP Sunog",
+    "rhu": "RHU Kalusugan"
+  },
   "hero": {
-    "eyebrow": "Independyente • Gawa ng Komunidad • Para sa Obando",
+    "eyebrow": "Independyente • Gawa ng Komunidad • Bayan ng Obando",
     "title": "Mas maayos na serbisyo at impormasyon para sa Obando.",
-    "subtitle": "Isang inisyatibang pangkomunidad na nagpapadali sa paghahanap ng mga serbisyong pambayan, direktoryo ng barangay, at abiso sa high tide.",
+    "subtitle": "Isang independyente at pinangungunahan ng mamamayang civic tech portal para sa mabilis na pag-access sa mga serbisyong pambayan, direktoryo ng barangay, at abiso sa baha.",
     "exploreServices": "Tingnan ang mga Serbisyo",
     "findService": "Maghanap ng Serbisyong Pampamahalaan sa Obando",
-    "frequentlyNeeded": "Mga Madalas Hanaping Serbisyo"
+    "searchPlaceholder": "Maghanap ng serbisyo, porma, o gabay (hal. Business Permit, Birth Certificate, High Tide, Senior ID)...",
+    "frequentlyNeeded": "Mga Madalas Hanaping Serbisyo",
+    "quickSearch": "Madalas Hanapin:",
+    "businessPermits": "Permiso sa Negosyo",
+    "birthCert": "Katibayan ng Kapanganakan",
+    "seniorCitizen": "Senior Citizen ID",
+    "highTide": "Gabay sa High Tide",
+    "hotlinesPill": "Mga Numerong Pang-emerhensiya"
   },
   "services": {
-    "title": "Mga Serbisyo at Impormasyon",
+    "title": "Mga Serbisyo at Impormasyong Publiko",
     "governmentServices": "Mga Serbisyong Pambayan",
-    "description": "Mabilis at madaling pag-access sa mga serbisyo ng lokal na pamahalaan para sa negosyo, kalusugan, edukasyon, at iba pa.",
+    "description": "Mabilis at madaling pag-access sa mga serbisyo ng lokal na pamahalaan. Maghanap ng mga gabay para sa mga permiso, kalusugan, edukasyon, mga sibil na dokumento, at iba pa.",
     "viewAll": "Tingnan Lahat ng Serbisyo",
     "viewAllCategory": "Tingnan Lahat"
   },
   "governmentActivity": {
     "title": "Pamahalaang Bayan at mga Tanggapan",
-    "description": "Impormasyon ukol sa pamunuan ng alkalde, mga departamento, at Sangguniang Bayan ng Obando."
+    "description": "Impormasyon ukol sa ehekutibong pamunuan, mga departamento ng munisipyo, at Sangguniang Bayan ng Obando."
   },
   "weather": {
     "title": "Ulat Panahon at Antas ng High Tide"
   },
   "footer": {
-    "copyright": "© 2026 Better Obando. Proyektong Civic Technology para sa Bayan ng Obando, Bulacan."
-  },
-  "navbar": {
-    "government": "Pamahalaan",
-    "services": "Mga Serbisyo",
-    "barangays": "Mga Barangay",
-    "communitytools": "Mga Gamit Pangkomunidad",
-    "hotlines": "Mga Hotline"
+    "copyright": "© 2026 Better Obando. Proyektong Civic Technology para sa Bayan ng Obando, Bulacan.",
+    "disclaimer": "Ang Better Obando ay isang independyenteng civic portal na binuo ng mga boluntaryo alinsunod sa mga pamantayan ng open-source civic tech. Hindi ito isang opisyal na ahensya ng gobyerno. Ang mga pormal na transaksyon ay dapat isagawa sa Munisipyo ng Obando, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan."
   }
 }

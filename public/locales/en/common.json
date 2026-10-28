@@ -1,13 +1,41 @@
 {
-  "site_name": "Municipality of Obando",
-  "site_description": "A community-run portal for the Municipality of Obando, Bulacan",
+  "site_name": "Better Obando",
+  "site_description": "An independent, community-driven civic portal for the Municipality of Obando, Bulacan",
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "forms": "Forms & Permits",
+    "barangays": "Barangays",
+    "communitytools": "Community Tools",
+    "government": "Government",
+    "about": "About",
+    "switchTheme": "Theme",
+    "riverPalette": "River & Mangrove",
+    "heritagePalette": "Fiesta & Heritage",
+    "hotlines": "Hotlines",
+    "viewAll": "View All →"
+  },
+  "emergency": {
+    "title": "Obando Hotlines:",
+    "mdrrmo": "MDRRMO Rescue",
+    "pnp": "Obando Police",
+    "bfp": "BFP Fire",
+    "rhu": "RHU Health"
+  },
   "hero": {
     "eyebrow": "Independent • Community-Built • Bayan ng Obando",
     "title": "Better tools and information for a better Obando.",
     "subtitle": "An independent, citizen-led civic tech portal making municipal services, barangay directories, and coastal flood alerts easy to access.",
     "exploreServices": "Explore Services",
     "findService": "Find an Obando Government Service",
-    "frequentlyNeeded": "Frequently Needed Services"
+    "searchPlaceholder": "Search government services, forms, or guidelines (e.g. Business Permit, Birth Certificate, High Tide, Senior ID)...",
+    "frequentlyNeeded": "Frequently Needed Services",
+    "quickSearch": "Frequently Needed:",
+    "businessPermits": "Business Permits",
+    "birthCert": "Birth Certificate",
+    "seniorCitizen": "Senior Citizen ID",
+    "highTide": "High Tide Guide",
+    "hotlinesPill": "Emergency Hotlines"
   },
   "services": {
     "title": "Services & Public Information",
@@ -24,13 +52,7 @@
     "title": "Weather & High Tide Updates"
   },
   "footer": {
-    "copyright": "© 2026 Better Obando. Independent Civic Technology Project for Obando, Bulacan."
-  },
-  "navbar": {
-    "government": "Government",
-    "services": "Services",
-    "barangays": "Barangays",
-    "communitytools": "Community Tools",
-    "hotlines": "Hotlines"
+    "copyright": "© 2026 Better Obando. Independent Civic Technology Project for Obando, Bulacan.",
+    "disclaimer": "Better Obando is an independent civic portal created by volunteers under open-source civic technology standards. It is not an official municipal agency or government endorsement. Official transactions should be finalized at the Obando Municipal Hall, J.P. Rizal St., Brgy. Paliwas, Obando, Bulacan."
   }
 }
